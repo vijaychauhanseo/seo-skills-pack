@@ -4,11 +4,24 @@
 
 # SEO Skills Pack
 
-Portable SEO skills and memory for Codex, Claude Code, and Agent Skills-compatible tools.
+Portable SEO operating system for Codex, Claude Code, and Agent Skills-compatible tools.
 
-This repository is the instruction layer behind my local SEO system. It bundles the operator skills, router memory, DEJAN reverse-engineering pack, and curated SEO notes that make the retrieval layer actually useful.
+This is not a pile of prompts.
+
+It is the instruction layer behind my local SEO squad: router memory, specialist skills, practitioner canon, DEJAN reverse-engineering workflows, and Claude-ready subagents that turn retrieved context into useful action.
 
 If `seo-vector-snapshot` is the memory engine, this repo is the operating system wrapped around it.
+
+## Why This Repo Feels Different
+
+Most “AI SEO packs” are static.
+
+This one is operational:
+
+- it routes work to the right lens instead of relying on one generic prompt
+- it carries practitioner-shaped memory, not just abstract tips
+- it installs into real agent runtimes instead of living as copy-paste docs
+- it pairs with a portable vector snapshot so the system can remember and act
 
 ## What You Get
 
@@ -64,6 +77,13 @@ This repo adds the missing parts:
 - portable SEO context on a fresh machine
 
 That means a second laptop does not just have files. It has working SEO judgment scaffolding.
+
+## What Makes It Valuable
+
+- turns raw retrieval into operator judgment
+- gives Claude, Codex, and other agent runtimes a shared SEO instruction layer
+- preserves expert lenses from DEJAN, Glenn Gabe, Marie Haynes, Patrick Stox, Cindy Krum, Lily Ray, Mike King, and others
+- makes a fresh machine feel like it already knows your research environment
 
 ## Install Into Codex
 
@@ -149,6 +169,15 @@ python3 ../seo-vector-snapshot/tools/squad_memory.py decide \
 - programmatic SEO planning
 - export-driven Ahrefs workflows
 - multi-source SEO memory on a second machine
+
+## Why It Is Public
+
+I wanted these repos to show a more useful model for AI-assisted SEO work:
+
+- memory that compounds
+- skills that route
+- expert context that survives the session
+- a stack that moves across tools instead of being trapped in one interface
 
 ## Not Just Generic SEO Notes
 
