@@ -3,6 +3,9 @@ source: https://ahrefs.com/blog/youtube-keyword-research/
 title: How to Do YouTube Keyword Research in 3 Easy Steps
 scraped: 2026-03-18
 tags: YouTube SEO, YouTube keyword research, video SEO, YouTube growth, search intent, double dip
+topic: keyword_research
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

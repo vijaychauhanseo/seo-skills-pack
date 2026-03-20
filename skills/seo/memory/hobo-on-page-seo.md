@@ -3,6 +3,9 @@ source: https://www.hobo-web.co.uk/on-page-seo/
 title: The Definitive Guide to On-Page SEO after the Google Leak
 scraped: 2026-03-18
 tags: on-page seo, google leak, mustang, navboost, content effort, e-e-a-t, url signals, ranking signals
+topic: relevance_system
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

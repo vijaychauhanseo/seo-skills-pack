@@ -3,6 +3,9 @@ source: https://ahrefs.com/blog/pr-campaign-examples/
 title: 9 Successful PR Campaign Examples, According to the Data
 scraped: 2026-03-18
 tags: digital PR, PR campaigns, link building, brand awareness, media coverage, newsjacking
+topic: brand_mentions
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

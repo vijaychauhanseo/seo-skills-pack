@@ -3,6 +3,9 @@ source: https://ahrefs.com/blog/competitive-analysis-guide/
 title: Competitive Analysis: The Lean Guide (With Template)
 scraped: 2026-03-18
 tags: competitive analysis, market research, share of voice, pricing, user reviews, positioning
+topic: seo_research
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

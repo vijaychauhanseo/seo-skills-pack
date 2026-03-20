@@ -3,6 +3,9 @@ source: https://ahrefs.com/blog/new-features-january-2026/
 title: Global keyword research, backlink page types, and more (January 2026)
 scraped: 2026-03-20
 tags: ahrefs features, brand radar, api, ai visibility, automation, workflows
+topic: seo_execution
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

@@ -3,6 +3,9 @@ source: https://ahrefs.com/blog/online-reputation-management/
 title: Online Reputation Management: A Beginner's Guide
 scraped: 2026-03-18
 tags: ORM, brand reputation, Google reputation, negative reviews, SERP management, social media reputation
+topic: brand_mentions
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

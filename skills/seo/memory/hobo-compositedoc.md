@@ -3,6 +3,9 @@ source: https://www.hobo-web.co.uk/compositedoc/
 title: The CompositeDoc: Google's Core Document Data Structure Leaked
 scraped: 2026-03-18
 tags: CompositeDoc, google leak, document structure, indexing, authority, rich media, structured data, technical SEO
+topic: document_quality_system
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

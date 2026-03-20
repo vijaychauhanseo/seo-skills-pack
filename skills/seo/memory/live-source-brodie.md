@@ -22,7 +22,7 @@ Feed source: https://brodieclark.com/feed/
 Feed title: Brodie Clark Consulting
 Latest published date: 2025-09-15
 New items since last run: 0
-Snapshot path: /Users/vijaychauhan/squad_memory/ingest/raw/brodie/2026-03-20/20260320T043001Z-feed-924c673d72.xml
+Snapshot path: /Users/vijaychauhan/squad_memory/ingest/reputable/raw/brodie/2026-03-20/20260320T125522Z-feed-924c673d72.xml
 
 ## Latest Items
 - 2025-09-15 | [Were We Wrong About “The Great Decoupling” After All? Analyzing the Impact of &num=100](https://brodieclark.com/the-great-decoupling-num100/)
@@ -41,7 +41,3 @@ Snapshot path: /Users/vijaychauhan/squad_memory/ingest/raw/brodie/2026-03-20/202
   Ecommerce SEO has fundamentally changed on a global scale in recent years with the rise of organic product grids as a SERP feature. Previously, the focus was primarily on ranking PLPs (Product Listing Pages) for high volume non-branded queries. While this is still an integral par
 - 2025-03-06 | [I have early access to Google’s new AI Mode. Here’s what you need to know](https://brodieclark.com/ai-mode-google/)
   After opting in to the waitlist and being a Gemini Advanced user, I’ve just been given early access to Google’s new AI Mode within labs after receiving the confirmation email. To access the AI Mode labs experience, I’m needing to use a VPN for the US, considering the experiment i
-- 2024-12-13 | [Free Local Listings: Bridging the Google Gap for Ecommerce & Nearby Shoppers](https://brodieclark.com/google-free-local-listings/)
-  For retailers that have both an online store and various physical storefronts, integrating the two to reap the benefits that come with free local listings is possibly the most complex (and rewarding) aspect of eCommerce SEO. While I work with all types of large-scale sites, eComm
-- 2024-09-04 | [Analyzing Google AI Overview Rankings at Scale](https://brodieclark.com/google-ai-overview-ranking/)
-  Yesterday marked a big day for the SEO industry. Previously, we had limited understanding of how Google AI Overviews (AIOs) were appearing for individual websites, a feature that is quickly becoming more prominent within search results. Semrush has now stepped up to the challenge

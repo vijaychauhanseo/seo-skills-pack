@@ -68,3 +68,24 @@ Canonical local notes:
 - Coral: use it to avoid mixing official rules, studies, and experiments into one blurry recommendation.
 - Kelp: use it to expand the library deliberately instead of scraping everything.
 - Current: use it when leaders ask what matters now versus what is just industry chatter.
+
+
+<!-- phase10:begin -->
+## Evidence Fusion
+
+Evidence confidence: medium
+Freshness status: current
+Distinct sources: Ahrefs
+
+### Cross-Source Signals
+- **Ahrefs**: Do not "train the model" with random internet scraping. Build a curated source stack. For our squad, the right structure is three layers: official rules, publication studies, and practitioner diagnostics.
+
+### Consensus
+- Sources converge that `seo source canon` should be treated as a repeatable operating concern, not a one-off tactic.
+
+### Tension / Caveat
+- No strong source conflict stands out in the current evidence set; the supporting notes mostly add nuance rather than contradict the primary canon.
+
+### Squad Action
+- Use the canonical note first, then open supporting evidence only when you need source-specific proof, edge cases, or fresher platform behavior.
+<!-- phase10:end -->

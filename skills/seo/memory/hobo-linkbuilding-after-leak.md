@@ -3,6 +3,9 @@ source: https://www.hobo-web.co.uk/the-definitive-guide-to-linkbuilding-after-th
 title: The Definitive Guide to Linkbuilding after the Google Content Warehouse Leak
 scraped: 2026-03-20
 tags: link building, site authority, pagerank, nearest seeds, clicks, link value, google leak
+topic: site_trust_system
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

@@ -3,6 +3,9 @@ source: https://www.hobo-web.co.uk/the-contenteffort-attribute-the-helpful-conte
 title: The ContentEffort Attribute, the Helpful Content System and E-E-A-T. Is Gemini behind the HCU?
 scraped: 2026-03-20
 tags: content effort, helpful content, eeat, google leak, originality, ai content
+topic: document_quality_system
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

@@ -3,6 +3,9 @@ source: https://www.hobo-web.co.uk/craps/
 title: Craps: How Clicks Affect Google Rankings
 scraped: 2026-03-20
 tags: craps, navboost, clicks, bad clicks, good clicks, last longest click, user satisfaction
+topic: click_behavior_systems
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

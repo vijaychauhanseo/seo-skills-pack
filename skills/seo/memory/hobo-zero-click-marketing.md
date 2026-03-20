@@ -3,6 +3,9 @@ source: https://www.hobo-web.co.uk/the-era-of-zero-click-search-and-zero-click-m
 title: The Era of Zero-Click Search and Zero Click Marketing
 scraped: 2026-03-20
 tags: zero click, ai overviews, brand influence, serp visibility, traffic loss, publisher economics
+topic: aio_click_loss
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

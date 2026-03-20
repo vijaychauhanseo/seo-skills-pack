@@ -40,3 +40,42 @@ Major industry publications are the speed layer of the library. Use them to trac
 - `https://searchengineland.com/ai-search-optimization-survey-2025-461939`
 - `https://www.seroundtable.com/recap-06-17-2025-39604.html`
 - `https://ahrefs.com/blog/ai-visibility/`
+
+
+
+
+
+<!-- phase9:begin -->
+## Canonical Synthesis
+
+This canonical note is reinforced by 1 merge candidate(s) and 0 supporting note(s) in the local memory library.
+
+### Supporting Note Digest
+- `ahrefs-alternative-search-engines.md`: A comprehensive overview of 20 non-Google search engines organized by category. Critical for understanding the full search landscape where content needs to be visible — not just Google.
+
+### Retrieval Guidance
+- Start with this note for the topic baseline and open the supporting notes only when you need source-specific evidence or edge cases.
+- Use the attached digest to avoid re-reading overlapping notes during planning and research.
+<!-- phase9:end -->
+
+
+<!-- phase10:begin -->
+## Evidence Fusion
+
+Evidence confidence: medium
+Freshness status: current
+Distinct sources: Ahrefs
+
+### Cross-Source Signals
+- **Ahrefs**: Major industry publications are the speed layer of the library. Use them to track current studies, rollout changes, and operating patterns, but validate rules and eligibility against official Google documentation.
+
+### Consensus
+- Sources converge that `ai search monitoring` should be treated as a repeatable operating concern, not a one-off tactic.
+- Recurring signals across the evidence set: ai search.
+
+### Tension / Caveat
+- No strong source conflict stands out in the current evidence set; the supporting notes mostly add nuance rather than contradict the primary canon.
+
+### Squad Action
+- Use the canonical note first, then open supporting evidence only when you need source-specific proof, edge cases, or fresher platform behavior.
+<!-- phase10:end -->

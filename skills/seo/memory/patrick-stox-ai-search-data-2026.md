@@ -45,3 +45,24 @@ Patrick Stox is the strongest operator in our library for AI-search measurement 
 - July 8, 2025: `Does Being Mentioned on Highly Linked Pages Influence AI Mentions?`
 - July 17, 2025: `Google Thinks AI Mode Is Good for Users, but the Content Isn't Good Enough to Rank in Google`
 - July 18, 2025: `8.64% of AI Overviews Appear Outside Position #1`
+
+
+<!-- phase10:begin -->
+## Evidence Fusion
+
+Evidence confidence: medium
+Freshness status: current
+Distinct sources: Ahrefs
+
+### Cross-Source Signals
+- **Ahrefs**: Patrick Stox is the strongest operator in our library for AI-search measurement reality. Use his work when the question is not "what should be true?" but "what does the data actually show?".
+
+### Consensus
+- Sources converge that `patrick stox ai search` should be treated as a repeatable operating concern, not a one-off tactic.
+
+### Tension / Caveat
+- No strong source conflict stands out in the current evidence set; the supporting notes mostly add nuance rather than contradict the primary canon.
+
+### Squad Action
+- Use the canonical note first, then open supporting evidence only when you need source-specific proof, edge cases, or fresher platform behavior.
+<!-- phase10:end -->

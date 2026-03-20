@@ -3,6 +3,9 @@ source: https://ahrefs.com/blog/query-fan-out/
 title: What is Query Fan-Out? Understanding the Hidden Queries Driving AI Search
 scraped: 2026-03-18
 tags: AI search, query fan-out, AI Overview, SGE, LLM search, search intent, technical SEO
+topic: ai_reverse_engineering
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

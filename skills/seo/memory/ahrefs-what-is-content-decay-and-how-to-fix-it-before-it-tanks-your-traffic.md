@@ -7,13 +7,15 @@ topic: content_strategy
 intent: ai_visibility, execution, monitoring, research, source_selection
 role: researcher, seo, pinchy, current
 confidence: high
-canonical: false
-canonical_group: Live approved promotions
+canonical: true
+canonical_group: Content strategy
 use_for: content_decay, refresh_workflows, source_selection
 avoid_for: blind_reuse_without_source_check
 promoted_from: phase5/ahrefs-what-is-content-decay-and-how-to-fix-it-before-it-tanks-your-traffic.md
 promotion_status: approved
 approved_on: 2026-03-20
+canonicalized_on: 2026-03-20
+canonicalized_by: phase8_promote_canon
 ---
 
 # What Is Content Decay? (And How to Fix It Before It Tanks Your Traffic)
@@ -48,3 +50,43 @@ That may sound defeatist, but unfortunately that’s just how the web works. Ran
 - Use this note when the live source signal is strong enough to influence durable SEO strategy.
 - Pair it with the source canon note first if you need freshness or chronology.
 - Revisit the source article directly if the claim becomes a major planning input.
+
+
+
+
+
+
+<!-- phase9:begin -->
+## Canonical Synthesis
+
+This canonical note is reinforced by 2 merge candidate(s) and 0 supporting note(s) in the local memory library.
+
+### Supporting Note Digest
+- `ahrefs-how-to-write-blog-post.md`: A 9-step process for writing blog posts that rank AND engage readers — covering topic selection through promotion. Combines SEO fundamentals with content quality principles.
+- `ahrefs-ecommerce-product-page-seo.md`: 14 actionable tactics for optimizing ecommerce product pages for search — covering keyword research, content, technical SEO, structured data, and indexing strategy. Highly applicable to any page selling a product or service.
+
+### Retrieval Guidance
+- Start with this note for the topic baseline and open the supporting notes only when you need source-specific evidence or edge cases.
+- Use the attached digest to avoid re-reading overlapping notes during planning and research.
+<!-- phase9:end -->
+
+
+<!-- phase10:begin -->
+## Evidence Fusion
+
+Evidence confidence: medium
+Freshness status: current
+Distinct sources: Ahrefs
+
+### Cross-Source Signals
+- **Ahrefs**: That may sound defeatist, but unfortunately that’s just how the web works. Rankings slip, competitors improve, search intent shifts, and what was your best-performing article two years ago might be leaking traffic right now without you even noticing. This is … Read more ›.
+
+### Consensus
+- Sources converge that `content strategy` should be treated as a repeatable operating concern, not a one-off tactic.
+
+### Tension / Caveat
+- No strong source conflict stands out in the current evidence set; the supporting notes mostly add nuance rather than contradict the primary canon.
+
+### Squad Action
+- Use the canonical note first, then open supporting evidence only when you need source-specific proof, edge cases, or fresher platform behavior.
+<!-- phase10:end -->

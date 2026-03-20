@@ -3,6 +3,9 @@ source: https://ahrefs.com/blog/ai-search-traffic-by-page-type-ahrefs/
 title: 80% of Our AI Search Traffic Goes to Our Homepage, Product Pages, and Free Tools
 scraped: 2026-03-20
 tags: ai search traffic, page types, homepage, free tools, product pages, attribution
+topic: ai_visibility
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

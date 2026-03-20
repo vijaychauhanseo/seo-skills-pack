@@ -20,11 +20,15 @@ Kind: publication
 Strength: broad SEO coverage, platform updates, practitioner commentary
 Feed source: https://www.searchenginejournal.com/feed/
 Feed title: Search Engine Journal
-Latest published date: 2026-03-19
-New items since last run: 0
-Snapshot path: /Users/vijaychauhan/squad_memory/ingest/raw/search-engine-journal/2026-03-20/20260320T043001Z-feed-3eced934e9.xml
+Latest published date: 2026-03-20
+New items since last run: 20
+Snapshot path: /Users/vijaychauhan/squad_memory/ingest/archive/raw/search-engine-journal/2026-03-20/20260320T125550Z-feed-3eced934e9.xml
 
 ## Latest Items
+- 2026-03-20 | [Google AI Mode Goes Personal, Crawl Limits Clarified – SEO Pulse via @sejournal, @MattGSouthern](https://www.searchenginejournal.com/seo-pulse-google-ai-mode-goes-personal-crawl-limits-clarified/570110/)
+  In SEO Pulse: Google opens Personal Intelligence to free users, Illyes clarifies crawl limits, and new data adds context to AIO and traffic trends. The post Google AI Mode Goes Personal, Crawl Limits Clarified – SEO Pulse appeared first on Search Engine Journal .
+- 2026-03-20 | [Google Ads Creative Tools Expand, Microsoft Simplifies Bidding – PPC Pulse via @sejournal, @brookeosmundson](https://www.searchenginejournal.com/ppc-pulse-google-ads-creative-tools-expand-microsoft-simplifies-bidding/570104/)
+  The latest PPC Pulse highlights Microsoft’s bidding updates, Google’s expanded creative tools, and Nano Banana Pro’s availability inside Google Ads. The post Google Ads Creative Tools Expand, Microsoft Simplifies Bidding – PPC Pulse appeared first on Search Engine Journal .
 - 2026-03-19 | [Google Expands UCP With Cart, Catalog, Onboarding via @sejournal, @MattGSouthern](https://www.searchenginejournal.com/google-expands-ucp-with-cart-catalog-onboarding/570084/)
   Google's Universal Commerce Protocol adds cart management and catalog access, highlights identity linking support, and begins simplifying Merchant Center onboarding. The post Google Expands UCP With Cart, Catalog, Onboarding appeared first on Search Engine Journal .
 - 2026-03-19 | [The Content Moat Is Dead. The Context Moat Is What Survives via @sejournal, @DuaneForrester](https://www.searchenginejournal.com/the-content-moat-is-dead-the-context-moat-is-what-survives/569778/)

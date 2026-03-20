@@ -21,8 +21,8 @@ Strength: leak systems, quality scoring, E-E-A-T, click and satisfaction framing
 Feed source: https://www.hobo-web.co.uk/feed/
 Feed title: Hobo
 Latest published date: 2026-03-18
-New items since last run: 0
-Snapshot path: /Users/vijaychauhan/squad_memory/ingest/raw/hobo/2026-03-20/20260320T043001Z-feed-a0387ed535.xml
+New items since last run: 14
+Snapshot path: /Users/vijaychauhan/squad_memory/ingest/archive/raw/hobo/2026-03-20/20260320T125550Z-feed-a0387ed535.xml
 
 ## Latest Items
 - 2026-03-18 | [Codename: Agency – By Your Command](https://www.hobo-web.co.uk/codename-agency-by-your-command/)
@@ -45,3 +45,7 @@ Snapshot path: /Users/vijaychauhan/squad_memory/ingest/raw/hobo/2026-03-20/20260
   Discover the Hobo SEO Quadrilogy. Based on the Google leak & DOJ trial, this "groundbreaking collection" of evidence-based frameworks for SEO covers strategic, technical, and AI SEO. Read the full article here Hobo SEO Quadrilogy Ebooks – A New Library for a New Era © Copyright 2
 - 2025-10-20 | [Hobo Technical SEO 2025 – Free SEO Ebook](https://www.hobo-web.co.uk/technical-seo/)
   The black box is broken. The blueprints are here. Download Hobo Technical SEO 2025 – a free eBook for senior SEOs. Built on the Google leak + DOJ trial evidence. No fluff. Just facts. Read the full article here Hobo Technical SEO 2025 – Free SEO Ebook © Copyright 2006-2025 Shaun 
+- 2025-10-16 | [The Definitive Guide to SEO Audits post-Google Leak](https://www.hobo-web.co.uk/seo-audit-framework/)
+  Explore the first evidence-based SEO audit framework post-Google leak. This definitive guide maps E-E-A-T to leaked Google attributes, creating an actionable strategy aligned with Google's core engineering principles. Read the full article here The Definitive Guide to SEO Audits 
+- 2025-10-13 | [The Definitive Guide to On-Page SEO after the Google Leak](https://www.hobo-web.co.uk/on-page-seo/)
+  Discover a new, evidence-based SEO strategy based on the Google Content Warehouse leak. This guide explains how ranking systems like Mustang and NavBoost, along with signals for site authority and content effort, fundamentally change on-page optimisation for serious practitioners

@@ -15,6 +15,7 @@
 | Trust and E-E-A-T | [ahrefs-eeat-audit-2026.md](./ahrefs-eeat-audit-2026.md) | [ahrefs-seo-brand-marketing.md](./ahrefs-seo-brand-marketing.md), [hobo-eeat-quality-score.md](./hobo-eeat-quality-score.md) |
 | Leak systems | [hobo-google-leak-decoded.md](./hobo-google-leak-decoded.md) | [hobo-navboost.md](./hobo-navboost.md), [hobo-topicality.md](./hobo-topicality.md), [hobo-qualitynsrpqdata.md](./hobo-qualitynsrpqdata.md) |
 | Source selection and routing | [seo-source-canon-2026.md](./seo-source-canon-2026.md) | [google-search-central-ai-features-2026.md](./google-search-central-ai-features-2026.md), [industry-ai-search-monitoring-2026.md](./industry-ai-search-monitoring-2026.md), [practitioner-ai-search-watchlist-2026.md](./practitioner-ai-search-watchlist-2026.md) |
+| Archive backfill and secondary sources | [archive/INDEX.md](./archive/INDEX.md) | [live-archive-monitor.md](./archive/live-archive-monitor.md) |
 | Official AI feature guidance | [google-search-central-ai-features-2026.md](./google-search-central-ai-features-2026.md) | [seo-source-canon-2026.md](./seo-source-canon-2026.md), [practitioner-ai-search-watchlist-2026.md](./practitioner-ai-search-watchlist-2026.md) |
 | Practitioner metrics and diagnostics | [practitioner-ai-search-watchlist-2026.md](./practitioner-ai-search-watchlist-2026.md) | [patrick-stox-ai-search-data-2026.md](./patrick-stox-ai-search-data-2026.md), [cindy-krum-serp-observation-2026.md](./cindy-krum-serp-observation-2026.md), [lily-ray-ai-quality-rag-2026.md](./lily-ray-ai-quality-rag-2026.md) |
 | Quality systems and rollout chronology | [practitioner-ai-search-watchlist-2026.md](./practitioner-ai-search-watchlist-2026.md) | [glenn-gabe-ai-search-quality-2026.md](./glenn-gabe-ai-search-quality-2026.md), [marie-haynes-ai-mode-and-quality-2026.md](./marie-haynes-ai-mode-and-quality-2026.md) |
@@ -64,7 +65,7 @@
 
 <!-- BEGIN AUTO LIVE SOURCE PIPELINE -->
 ## Live Monitoring Pipeline
-- Last refresh: 2026-03-20T04:30:33.219030+00:00
+- Last refresh: 2026-03-20T12:57:04.641737+00:00
 - Eval gate: approved
 - Primary accuracy: 100.00
 - Top-3 skill hit: 100.00
@@ -75,29 +76,32 @@
 | [live-source-canon.md](./live-source-canon.md) | Monitoring entrypoint across the live source canon notes |
 | [live-source-cluster-report.md](./live-source-cluster-report.md) | Freshness, clustering, and eval-gate status |
 | [live-source-canon-ahrefs.md](./live-source-canon-ahrefs.md) | Freshness-first canon for seo_research |
-| [live-source-canon-aleyda.md](./live-source-canon-aleyda.md) | Freshness-first canon for operations_and_international |
 | [live-source-canon-brodie.md](./live-source-canon-brodie.md) | Freshness-first canon for reporting_and_serp_features |
 | [live-source-canon-dejan.md](./live-source-canon-dejan.md) | Freshness-first canon for ai_reverse_engineering |
 | [live-source-canon-google-search-central.md](./live-source-canon-google-search-central.md) | Freshness-first canon for official_guidance |
 | [live-source-canon-gsqi.md](./live-source-canon-gsqi.md) | Freshness-first canon for quality_systems |
-| [live-source-canon-hobo.md](./live-source-canon-hobo.md) | Freshness-first canon for quality_systems |
 | [live-source-canon-ipullrank.md](./live-source-canon-ipullrank.md) | Freshness-first canon for relevance_engineering |
 | [live-source-canon-jono.md](./live-source-canon-jono.md) | Freshness-first canon for technical_architecture |
 | [live-source-canon-lily.md](./live-source-canon-lily.md) | Freshness-first canon for trust_and_rag |
 | [live-source-canon-marie.md](./live-source-canon-marie.md) | Freshness-first canon for rollout_and_qrg |
 | [live-source-canon-mobilemoxie.md](./live-source-canon-mobilemoxie.md) | Freshness-first canon for serp_observation |
-| [live-source-canon-search-engine-journal.md](./live-source-canon-search-engine-journal.md) | Freshness-first canon for industry_news |
-| [live-source-canon-search-engine-land.md](./live-source-canon-search-engine-land.md) | Freshness-first canon for industry_news |
-| [live-source-canon-seroundtable.md](./live-source-canon-seroundtable.md) | Freshness-first canon for daily_monitoring |
 <!-- END AUTO LIVE SOURCE PIPELINE -->
 
 <!-- BEGIN AUTO PROMOTED DRAFTS -->
 ## Approved Live Promotions
-- Last refresh: 2026-03-20T05:00:22.697647+00:00
-- Approved durable notes: 9
+- Last refresh: 2026-03-20T12:47:57.995338+00:00
+- Approved durable notes: 17
 
 | File | Topic | Source | Suggested Section |
 |------|-------|--------|-------------------|
+| [dejan-sro-grounding-snippets.md](./dejan-sro-grounding-snippets.md) | ai_reverse_engineering | dejan | AI Search & Visibility |
+| [dejan-search-grounding-is-transient.md](./dejan-search-grounding-is-transient.md) | ai_reverse_engineering | dejan | AI Search & Visibility |
+| [dejan-is-query-length-a-reliable-predictor-of-search-volume.md](./dejan-is-query-length-a-reliable-predictor-of-search-volume.md) | ai_reverse_engineering | dejan | AI Search & Visibility |
+| [ahrefs-what-are-secondary-keywords-and-how-to-use-them.md](./ahrefs-what-are-secondary-keywords-and-how-to-use-them.md) | keyword_research | ahrefs | AI Search & Visibility |
+| [ahrefs-reddit-keyword-research-4-methods-to-find-keywords-your-competitors-miss.md](./ahrefs-reddit-keyword-research-4-methods-to-find-keywords-your-competitors-miss.md) | keyword_research | ahrefs | AI Search & Visibility |
+| [hobo-codename-agency-by-your-command.md](./hobo-codename-agency-by-your-command.md) | quality_systems | hobo | Google Leak Systems & Architecture |
+| [dejan-rufus-under-the-hood-what-drives-amazon-s-ai-shopping-assistant.md](./dejan-rufus-under-the-hood-what-drives-amazon-s-ai-shopping-assistant.md) | ai_reverse_engineering | dejan | AI Search & Visibility |
+| [ahrefs-ai-content-wasn-t-good-enough-now-it-is.md](./ahrefs-ai-content-wasn-t-good-enough-now-it-is.md) | seo_research | ahrefs | AI Search & Visibility |
 | [jono-clicks-don-t-count-and-they-never-did.md](./jono-clicks-don-t-count-and-they-never-did.md) | technical_architecture | jono | Source Canon & Monitoring |
 | [ipullrank-beyond-rankings-designing-ai-search-metrics-for-the-next-era-of-seo.md](./ipullrank-beyond-rankings-designing-ai-search-metrics-for-the-next-era-of-seo.md) | relevance_engineering | ipullrank | Source Canon & Monitoring |
 | [gsqi-ask-maps-in-google-maps-when-local-search-meets-gemini-ai.md](./gsqi-ask-maps-in-google-maps-when-local-search-meets-gemini-ai.md) | quality_systems | gsqi | Google Leak Systems & Architecture |

@@ -40,3 +40,42 @@ Ahrefs studied 75,000 brands and found that AI visibility correlates most strong
 - **Charles**: Prioritize YouTube and external mention generation because they are directly relevant to AI visibility.
 - **Current (Marketing)**: Treat PR, partnerships, and cross-platform brand mentions as search investments, not just awareness plays.
 - **Key insight for @learnaiwithvijay**: If the brand is not being talked about across the web, AI systems have less reason to surface it.
+
+
+
+
+
+
+<!-- phase9:begin -->
+## Canonical Synthesis
+
+This canonical note is reinforced by 1 merge candidate(s) and 0 supporting note(s) in the local memory library.
+
+### Supporting Note Digest
+- `ahrefs-seo-brand-marketing.md`: Ahrefs argues that brand consistency is now a search advantage, and that teams need a search-aware brand guide so both humans and AI tools reinforce the same entities, positioning, language, and proof signals.
+
+### Retrieval Guidance
+- Start with this note for the topic baseline and open the supporting notes only when you need source-specific evidence or edge cases.
+- Use the attached digest to avoid re-reading overlapping notes during planning and research.
+<!-- phase9:end -->
+
+
+<!-- phase10:begin -->
+## Evidence Fusion
+
+Evidence confidence: medium
+Freshness status: current
+Distinct sources: Ahrefs
+
+### Cross-Source Signals
+- **Ahrefs**: Ahrefs studied 75,000 brands and found that AI visibility correlates most strongly with off-site brand presence, especially YouTube mentions, web mentions, branded anchors, and branded search demand.
+
+### Consensus
+- Sources converge that `brand visibility` should be treated as a repeatable operating concern, not a one-off tactic.
+
+### Tension / Caveat
+- Brand consistency work looks like messaging on the surface, but the evidence cluster treats it as a search and recommendation system input. Current evidence is still source-concentrated, so treat it as directional rather than fully cross-validated.
+
+### Squad Action
+- Use this canon when aligning SEO, messaging, and entity positioning across site and off-site surfaces.
+<!-- phase10:end -->

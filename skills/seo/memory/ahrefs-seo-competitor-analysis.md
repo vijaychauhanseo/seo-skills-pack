@@ -3,6 +3,9 @@ source: https://ahrefs.com/blog/seo-competitor-analysis/
 title: How to Do an SEO Competitor Analysis [With Template]
 scraped: 2026-03-18
 tags: competitor analysis, SEO strategy, keyword gap, backlink gap, content gap, SERP analysis
+topic: seo_research
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

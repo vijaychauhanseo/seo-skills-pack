@@ -3,6 +3,9 @@ source: https://ahrefs.com/blog/what-percentage-of-new-content-is-ai-generated/
 title: 74% of New Webpages Include AI Content (Study of 900k Pages)
 scraped: 2026-03-20
 tags: ai content, content saturation, publishing economics, quality competition, content strategy
+topic: seo_research
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

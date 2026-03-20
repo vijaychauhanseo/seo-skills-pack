@@ -3,6 +3,9 @@ source: https://www.hobo-web.co.uk/compressedqualitysignals/
 title: Google's Leaked CompressedQualitySignals: Advanced SEO Analysis
 scraped: 2026-03-18
 tags: CompressedQualitySignals, google leak, mustang, terageoogle, panda, navboost, algorithmic penalties, topicality
+topic: document_quality_system
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

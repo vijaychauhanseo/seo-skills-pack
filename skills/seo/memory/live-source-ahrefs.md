@@ -22,7 +22,7 @@ Feed source: https://ahrefs.com/blog/feed/
 Feed title: SEO Blog by Ahrefs
 Latest published date: 2026-03-17
 New items since last run: 0
-Snapshot path: /Users/vijaychauhan/squad_memory/ingest/raw/ahrefs/2026-03-20/20260320T043001Z-blog-feed-7f9e5e3a54.xml
+Snapshot path: /Users/vijaychauhan/squad_memory/ingest/reputable/raw/ahrefs/2026-03-20/20260320T125522Z-blog-feed-7f9e5e3a54.xml
 
 ## Latest Items
 - 2026-03-17 | [15 Marketing Conferences to Attend in 2026](https://ahrefs.com/blog/marketing-conferences/)
@@ -41,7 +41,3 @@ Snapshot path: /Users/vijaychauhan/squad_memory/ingest/raw/ahrefs/2026-03-20/202
   Secondary keywords are how you capture that extra traffic. They’re the supporting terms that help your page rank for more searches without creating separate content for each variation. In this guide, you’ll learn what secondary keywords are, how to find … Read more ›
 - 2026-03-05 | [Reddit Keyword Research: 4 Methods to Find Keywords Your Competitors Miss](https://ahrefs.com/blog/reddit-keyword-research/)
   (In fact, search Google for “reddit keyword research” and you’ll notice that 6 of the top 10 results are actual Reddit threads.) That makes Reddit unique and important. It’s a place where your brand’s reputation is shaped by real user … Read more ›
-- 2026-03-04 | [Focus Keywords: What They Are, and How to Choose the Right One](https://ahrefs.com/blog/focus-keywords/)
-  But here’s the thing: if you’re new to SEO, you might not actually understand what a focus keyword is, or why it matters beyond making that indicator turn green. A focus keyword isn’t just a box to fill in. It’s … Read more ›
-- 2026-03-04 | [How to Focus on Topics (Not Keywords) in Your SEO Strategy](https://ahrefs.com/blog/topics-not-keywords/)
-  The truth is far less dramatic. Keywords aren’t dead, but optimising for them one at a time is like trying to light up a galaxy one star at a time. The real shift is a change in scale and mindset: … Read more ›

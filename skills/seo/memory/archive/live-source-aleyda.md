@@ -21,8 +21,8 @@ Strength: international SEO, AI-search operations, SERP economics, curation
 Feed source: https://www.aleydasolis.com/en/feed/
 Feed title: International SEO Consultant, Author & Speaker | Aleyda Solis
 Latest published date: 2026-02-14
-New items since last run: 0
-Snapshot path: /Users/vijaychauhan/squad_memory/ingest/raw/aleyda/2026-03-20/20260320T043001Z-en-feed-db41b7f091.xml
+New items since last run: 9
+Snapshot path: /Users/vijaychauhan/squad_memory/ingest/archive/raw/aleyda/2026-03-20/20260320T125550Z-en-feed-db41b7f091.xml
 
 ## Latest Items
 - 2026-02-14 | [Search Isn’t Just Turning to AI, it’s being Re-Monetized: Text Ads Are Taking a Bigger Share of Google SERP Clicks (Data)](https://www.aleydasolis.com/en/search-engine-optimization/serp-shifts-ads-remonetized/)

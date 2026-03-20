@@ -3,6 +3,9 @@ source: https://ahrefs.com/blog/fast-link-building/
 title: How to Start a Link Building Campaign Fast (and Systematize Everything)
 scraped: 2026-03-18
 tags: link building, outreach, backlinks, systematization, automation, link prospecting
+topic: brand_mentions
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

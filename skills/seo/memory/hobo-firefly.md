@@ -40,3 +40,24 @@ QualityCopiaFireflySiteSignal appears to be Hobo's name for a site-level Google 
 - **Developer / Chitin**: Track content inventory, thin-page patterns, orphan clusters, and section-level growth so scale problems are visible before Google detects them.
 - **Current (Marketing)**: Avoid campaigns that create surges of shallow pages around trends unless those pages are materially useful.
 - **Key insight for the team**: Growth without an improving quality ratio is a liability. Scale has to be defended with clear originality and strong engagement.
+
+
+<!-- phase10:begin -->
+## Evidence Fusion
+
+Evidence confidence: medium
+Freshness status: current
+Distinct sources: Hobo
+
+### Cross-Source Signals
+- **Hobo**: QualityCopiaFireflySiteSignal appears to be Hobo's name for a site-level Google system that detects scaled content abuse by combining publication velocity, quality ratios, and user satisfaction signals into a demotion framework.
+
+### Consensus
+- Sources converge that `scaled abuse risk` should be treated as a repeatable operating concern, not a one-off tactic.
+
+### Tension / Caveat
+- No strong source conflict stands out in the current evidence set; the supporting notes mostly add nuance rather than contradict the primary canon.
+
+### Squad Action
+- Use the canonical note first, then open supporting evidence only when you need source-specific proof, edge cases, or fresher platform behavior.
+<!-- phase10:end -->

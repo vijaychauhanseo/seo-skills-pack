@@ -3,6 +3,9 @@ source: https://www.hobo-web.co.uk/perdocdata/
 title: The PerDocData: Google's Leaked Core Document Model
 scraped: 2026-03-18
 tags: perdocdata, google leak, document model, ranking signals, spam signals, freshness, clicks, authority
+topic: ranking_architecture
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

@@ -38,3 +38,24 @@ Jono Alderson is the strongest operator in this pack for technical architecture.
 ## Source Dates Worth Remembering
 - March 6, 2026: `Speed is the first competency test`
 - February 21, 2026: `Stop trying to rank for keywords`
+
+
+<!-- phase10:begin -->
+## Evidence Fusion
+
+Evidence confidence: medium
+Freshness status: current
+Distinct sources: Jono
+
+### Cross-Source Signals
+- **Jono**: Jono Alderson is the strongest operator in this pack for technical architecture. Use him when the problem is less about AI-feature chatter and more about the site systems that make content understandable, fast, and structurally sound.
+
+### Consensus
+- Sources converge that `jono alderson technical` should be treated as a repeatable operating concern, not a one-off tactic.
+
+### Tension / Caveat
+- No strong source conflict stands out in the current evidence set; the supporting notes mostly add nuance rather than contradict the primary canon.
+
+### Squad Action
+- Use the canonical note first, then open supporting evidence only when you need source-specific proof, edge cases, or fresher platform behavior.
+<!-- phase10:end -->

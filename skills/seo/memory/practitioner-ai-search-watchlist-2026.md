@@ -59,3 +59,24 @@ Practitioners are the edge-case layer of the library. They often surface behavio
 - `https://mobilemoxie.com/blog/how-to-find-track-fraggles-in-your-seo-efforts/`
 - `https://mobilemoxie.com/blog/january-release-notes-mobile-moxie-tools/`
 - `https://lilyray.nyc/gemini-rag-analysis-tool/`
+
+
+<!-- phase10:begin -->
+## Evidence Fusion
+
+Evidence confidence: medium
+Freshness status: current
+Distinct sources: Ahrefs
+
+### Cross-Source Signals
+- **Ahrefs**: Practitioners are the edge-case layer of the library. They often surface behavior, timelines, and measurement quirks before the official docs explain them cleanly.
+
+### Consensus
+- Sources converge that `ai search practitioners` should be treated as a repeatable operating concern, not a one-off tactic.
+
+### Tension / Caveat
+- No strong source conflict stands out in the current evidence set; the supporting notes mostly add nuance rather than contradict the primary canon.
+
+### Squad Action
+- Use the canonical note first, then open supporting evidence only when you need source-specific proof, edge cases, or fresher platform behavior.
+<!-- phase10:end -->

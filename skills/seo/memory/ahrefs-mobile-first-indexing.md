@@ -3,6 +3,9 @@ source: https://ahrefs.com/blog/mobile-first-indexing/
 title: Mobile-First Indexing Goes Mobile-Only
 scraped: 2026-03-18
 tags: mobile SEO, technical SEO, Google indexing, mobile-first, Core Web Vitals
+topic: technical_architecture
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

@@ -3,6 +3,9 @@ source: https://ahrefs.com/blog/best-ai-marketing-tools/
 title: 14 of the Best AI Marketing Tools We've Tried & Spied in 2025
 scraped: 2026-03-18
 tags: AI marketing tools, AI tools, content marketing, automation, brand monitoring, AI SEO
+topic: ai_visibility
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

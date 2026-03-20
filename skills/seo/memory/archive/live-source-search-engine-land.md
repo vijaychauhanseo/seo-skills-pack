@@ -20,11 +20,13 @@ Kind: publication
 Strength: industry coverage, rollout monitoring, search product and platform changes
 Feed source: https://searchengineland.com/feed/
 Feed title: Search Engine Land
-Latest published date: 2026-03-19
-New items since last run: 0
-Snapshot path: /Users/vijaychauhan/squad_memory/ingest/raw/search-engine-land/2026-03-20/20260320T043001Z-feed-fcfbc7136a.xml
+Latest published date: 2026-03-20
+New items since last run: 10
+Snapshot path: /Users/vijaychauhan/squad_memory/ingest/archive/raw/search-engine-land/2026-03-20/20260320T125550Z-feed-fcfbc7136a.xml
 
 ## Latest Items
+- 2026-03-20 | [7 ways to use storytelling in a business blog](https://searchengineland.com/7-ways-to-use-storytelling-in-a-business-blog-472052)
+  Practical ways to structure blog content so it’s easier to read, holds attention, and leads readers toward action.
 - 2026-03-19 | [Walmart: ChatGPT checkout converted 3x worse than website](https://searchengineland.com/walmart-chatgpt-checkout-converted-worse-472071)
   After testing 200,000 items in ChatGPT, Walmart found sharply lower conversions and will use its own integrated shopping experience.
 - 2026-03-19 | [Perplexity’s Comet for iOS uses Google Search by default](https://searchengineland.com/perplexity-comet-ios-google-search-default-472066)
@@ -43,5 +45,3 @@ Snapshot path: /Users/vijaychauhan/squad_memory/ingest/raw/search-engine-land/20
   As AI Mode expands, ad formats, reporting, and control are starting to take shape, with Google playing a long game competitors can’t match.
 - 2026-03-18 | [Google AI Overviews now appear on 14% of shopping queries: Report](https://searchengineland.com/google-ai-overviews-shopping-queries-report-471981)
   Shopping searches are no longer safe from AI Overviews. A new study of 20.9 million SERPs shows AI summaries spreading fast.
-- 2026-03-18 | [Small publisher search traffic fell 60% over two years: Data](https://searchengineland.com/small-publisher-search-traffic-drops-data-471974)
-  Google Search pageviews fell 34% year over year and Discover dropped 15%, as ChatGPT referrals rose 200% but remained under 1% of traffic.

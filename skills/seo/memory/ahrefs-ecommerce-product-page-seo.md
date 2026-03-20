@@ -3,6 +3,9 @@ source: https://ahrefs.com/blog/ecommerce-product-page-seo/
 title: 14 Ways to Improve Ecommerce Product Pages for SEO
 scraped: 2026-03-18
 tags: ecommerce SEO, product page, structured data, schema markup, internal linking, image SEO, reviews
+topic: content_strategy
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

@@ -40,6 +40,7 @@ Use this file as the entrypoint to the `memory/` library before giving non-trivi
 - Official Google AI guidance: `memory/google-search-central-ai-features-2026.md`
 - Industry monitoring layer: `memory/industry-ai-search-monitoring-2026.md`
 - Practitioner diagnostics layer: `memory/practitioner-ai-search-watchlist-2026.md`
+- Archive backfill layer: `memory/archive/INDEX.md`
 - Glenn Gabe quality-systems layer: `memory/glenn-gabe-ai-search-quality-2026.md`
 - Marie Haynes rollout-and-QRG layer: `memory/marie-haynes-ai-mode-and-quality-2026.md`
 - Patrick Stox data layer: `memory/patrick-stox-ai-search-data-2026.md`
@@ -52,20 +53,15 @@ Use this file as the entrypoint to the `memory/` library before giving non-trivi
 ### Canonical Live Monitoring Notes
 - Live source canon monitor: `memory/live-source-canon.md`
 - Ahrefs Blog: `memory/live-source-canon-ahrefs.md`
-- Aleyda Solis: `memory/live-source-canon-aleyda.md`
 - Brodie Clark: `memory/live-source-canon-brodie.md`
 - DEJAN / Dan Petrovic: `memory/live-source-canon-dejan.md`
 - Google Search Central Blog: `memory/live-source-canon-google-search-central.md`
 - Glenn Gabe / GSQi: `memory/live-source-canon-gsqi.md`
-- Hobo Web: `memory/live-source-canon-hobo.md`
 - Mike King / iPullRank: `memory/live-source-canon-ipullrank.md`
 - Jono Alderson: `memory/live-source-canon-jono.md`
 - Lily Ray: `memory/live-source-canon-lily.md`
 - Marie Haynes: `memory/live-source-canon-marie.md`
 - Cindy Krum / MobileMoxie: `memory/live-source-canon-mobilemoxie.md`
-- Search Engine Journal: `memory/live-source-canon-search-engine-journal.md`
-- Search Engine Land: `memory/live-source-canon-search-engine-land.md`
-- Search Engine Roundtable: `memory/live-source-canon-seroundtable.md`
 - Freshness and promotion gate: `memory/live-source-cluster-report.md`
 
 Use these notes for freshness-first source routing before loading durable memory.
@@ -75,6 +71,14 @@ Use these notes for freshness-first source routing before loading durable memory
 ## Approved Live Promotions
 
 ### Durable Notes Promoted From The Live Pipeline
+- SRO & Grounding Snippets: `memory/dejan-sro-grounding-snippets.md` | source=dejan | topic=ai_reverse_engineering
+- Search Grounding is Transient: `memory/dejan-search-grounding-is-transient.md` | source=dejan | topic=ai_reverse_engineering
+- Is Query Length a Reliable Predictor of Search Volume?: `memory/dejan-is-query-length-a-reliable-predictor-of-search-volume.md` | source=dejan | topic=ai_reverse_engineering
+- What Are Secondary Keywords? (And How to Use Them): `memory/ahrefs-what-are-secondary-keywords-and-how-to-use-them.md` | source=ahrefs | topic=keyword_research
+- Reddit Keyword Research: 4 Methods to Find Keywords Your Competitors Miss: `memory/ahrefs-reddit-keyword-research-4-methods-to-find-keywords-your-competitors-miss.md` | source=ahrefs | topic=keyword_research
+- Codename: Agency – By Your Command: `memory/hobo-codename-agency-by-your-command.md` | source=hobo | topic=quality_systems
+- Rufus – Under the Hood. What Drives Amazon’s AI Shopping Assistant?: `memory/dejan-rufus-under-the-hood-what-drives-amazon-s-ai-shopping-assistant.md` | source=dejan | topic=ai_reverse_engineering
+- AI Content Wasn’t Good Enough. Now It Is.: `memory/ahrefs-ai-content-wasn-t-good-enough-now-it-is.md` | source=ahrefs | topic=seo_research
 - Clicks don’t count (and they never did): `memory/jono-clicks-don-t-count-and-they-never-did.md` | source=jono | topic=technical_architecture
 - Beyond Rankings: Designing AI Search Metrics for the Next Era of SEO: `memory/ipullrank-beyond-rankings-designing-ai-search-metrics-for-the-next-era-of-seo.md` | source=ipullrank | topic=relevance_engineering
 - Ask Maps in Google Maps – When Local Search Meets Gemini AI: `memory/gsqi-ask-maps-in-google-maps-when-local-search-meets-gemini-ai.md` | source=gsqi | topic=quality_systems
@@ -111,6 +115,12 @@ Use the source canon notes when the task is about:
 - official Google guidance versus industry interpretation
 - current rollout and reporting changes
 - practitioner experiments and edge-case diagnostics
+
+Use the archive layer when the task is about:
+- broader industry backfill
+- older or secondary-source SEO context
+- recap coverage and historical monitoring
+- adding breadth without polluting the main freshness layer
 
 Use the SEO expert canon when the task is about:
 - choosing which expert lens should lead

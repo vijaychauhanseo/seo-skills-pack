@@ -3,6 +3,9 @@ source: https://www.hobo-web.co.uk/evidence-based-mapping-of-google-updates-to-l
 title: Mapping of Google Updates to Leaked Ranking Signals
 scraped: 2026-03-20
 tags: google updates, panda, penguin, helpful content, q-star, signal mapping, google leak
+topic: ranking_architecture
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

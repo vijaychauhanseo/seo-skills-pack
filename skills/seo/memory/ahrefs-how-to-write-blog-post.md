@@ -3,6 +3,9 @@ source: https://ahrefs.com/blog/how-to-write-a-blog-post/
 title: How to Write a Blog Post (That People Actually Want to Read) in 9 Steps
 scraped: 2026-03-18
 tags: content writing, blog post, SEO writing, content strategy, headline, on-page SEO, content promotion
+topic: content_strategy
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

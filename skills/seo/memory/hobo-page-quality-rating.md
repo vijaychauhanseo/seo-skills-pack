@@ -3,6 +3,9 @@ source: https://www.hobo-web.co.uk/google-pq-page-quality-rating/
 title: The Google Leak, Page Quality Rating (PQ) and the Rater Connections
 scraped: 2026-03-20
 tags: pq, page quality, quality raters, sitequalitystddev, pqdata, google leak, trust
+topic: document_quality_system
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

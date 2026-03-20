@@ -22,7 +22,7 @@ Feed source: https://www.jonoalderson.com/feed/
 Feed title: Jono Alderson
 Latest published date: 2026-03-12
 New items since last run: 0
-Snapshot path: /Users/vijaychauhan/squad_memory/ingest/raw/jono/2026-03-20/20260320T043001Z-feed-588205e7ff.xml
+Snapshot path: /Users/vijaychauhan/squad_memory/ingest/reputable/raw/jono/2026-03-20/20260320T125522Z-feed-588205e7ff.xml
 
 ## Latest Items
 - 2026-03-12 | [Clicks don’t count (and they never did)](https://www.jonoalderson.com/conjecture/clicks-dont-count/)

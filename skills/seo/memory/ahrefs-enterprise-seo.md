@@ -3,6 +3,9 @@ source: https://ahrefs.com/blog/enterprise-seo/
 title: Enterprise SEO Strategies For Maximum Growth
 scraped: 2026-03-18
 tags: enterprise SEO, large-scale SEO, technical SEO, content strategy, link building, SaaS SEO, ecommerce SEO, ROI
+topic: seo_execution
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

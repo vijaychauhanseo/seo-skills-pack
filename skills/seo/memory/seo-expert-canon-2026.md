@@ -56,3 +56,24 @@ This is the stable expert-routing note for the squad. Use it to decide whose len
 ## Live Monitoring Rule
 - Use `live-seo-feed-monitor.md` and `live-seo-feed-*.md` snapshots for fresh titles and source changes.
 - Use the expert notes above for the durable interpretation layer.
+
+
+<!-- phase10:begin -->
+## Evidence Fusion
+
+Evidence confidence: medium
+Freshness status: current
+Distinct sources: Ahrefs
+
+### Cross-Source Signals
+- **Ahrefs**: This is the stable expert-routing note for the squad. Use it to decide whose lens should lead before loading a bigger bundle of notes.
+
+### Consensus
+- Sources converge that `seo expert canon` should be treated as a repeatable operating concern, not a one-off tactic.
+
+### Tension / Caveat
+- No strong source conflict stands out in the current evidence set; the supporting notes mostly add nuance rather than contradict the primary canon.
+
+### Squad Action
+- Use the canonical note first, then open supporting evidence only when you need source-specific proof, edge cases, or fresher platform behavior.
+<!-- phase10:end -->

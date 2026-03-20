@@ -45,3 +45,48 @@ QualityNsrPQData is the leaked Google data structure that powers page quality as
 - **Chitin (Dev)**: Signal versioning means historical content quality matters — don't delete old content without understanding its contribution to site-wide NSR
 - **Current (Marketing)**: Building NSR through quality links and brand mentions is a long-term investment that compounds — start now, don't wait
 - **Key insight**: QualityNsrPQData confirms that site authority is a prerequisite for page-level SEO to work at full effectiveness — @learnaiwithvijay should prioritise building NSR through quality backlinks and brand authority before aggressive content scaling
+
+
+
+
+
+
+<!-- phase9:begin -->
+## Canonical Synthesis
+
+This canonical note is reinforced by 5 merge candidate(s) and 0 supporting note(s) in the local memory library.
+
+### Supporting Note Digest
+- `hobo-page-quality-rating.md`: Hobo argues that Google's leaked `pqData` and `siteQualityStddev` fields are the machine-side implementation of Page Quality concepts from the Quality Rater Guidelines, with site consistency functioning as a practical ranking factor.
+- `hobo-goldmine.md`: Goldmine is Hobo’s name for a leaked Google scoring engine that evaluates candidate SERP elements, especially titles, by comparing publisher input against alternatives from headings, links, URLs, and page content.
+- `hobo-content-effort.md`: Hobo presents `contentEffort` as a leaked Google quality signal that attempts to estimate how much real labour, expertise, and originality went into an article, making low-cost mass content structurally disadvantaged.
+- `hobo-compressedqualitysignals.md`: CompressedQualitySignals is described as the most important module in the entire Google Content Warehouse leak — it's the compressed quality scoring layer used in Mustang (page-level) and TeraGoogle (site-level) preliminary scoring that determines where pages enter the ranking pipeline.
+- `hobo-compositedoc.md`: CompositeDoc is the master data structure in Google's Content Warehouse that combines every signal about a document — from basic content to authority metrics, technical directives, rich media, and structured data — into a single unified record used across the ranking pipeline.
+
+### Retrieval Guidance
+- Start with this note for the topic baseline and open the supporting notes only when you need source-specific evidence or edge cases.
+- Use the attached digest to avoid re-reading overlapping notes during planning and research.
+<!-- phase9:end -->
+
+
+<!-- phase10:begin -->
+## Evidence Fusion
+
+Evidence confidence: medium
+Freshness status: current
+Distinct sources: Hobo
+
+### Cross-Source Signals
+- **Hobo**: QualityNsrPQData is the leaked Google data structure that powers page quality assessment — its central metric is Normalised Site Rank (NSR), a site-wide authority score that acts as a prior for all individual page quality judgements.
+
+### Consensus
+- The leak-oriented sources agree that document quality is modeled systemically rather than through one simple page-level factor.
+- Quality signals cluster around effort, structure, and page-level scoring rather than isolated keyword tuning.
+- Recurring source signals: google leak, page quality.
+
+### Tension / Caveat
+- Quality scoring appears systemic, but no single leaked field should be treated as a complete ranking explanation on its own. Current evidence is still source-concentrated, so treat it as directional rather than fully cross-validated.
+
+### Squad Action
+- Use this canon when the task is page quality, document modeling, or quality-system interpretation from the leaks.
+<!-- phase10:end -->

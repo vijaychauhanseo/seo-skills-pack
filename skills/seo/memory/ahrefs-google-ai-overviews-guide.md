@@ -40,3 +40,47 @@ This Ahrefs guide is the baseline operating manual for AI Overviews: where they 
 - **Plankton (Writer)**: Create citation-friendly sections that can survive even if clicks decline.
 - **Current (Marketing)**: Use AIO presence as a brand-exposure layer, then reinforce demand through brand channels and remarketing paths.
 - **Key insight for @learnaiwithvijay**: Winning the SERP no longer guarantees winning the click. The answer layer must be treated as its own channel.
+
+
+
+
+
+
+<!-- phase9:begin -->
+## Canonical Synthesis
+
+This canonical note is reinforced by 4 merge candidate(s) and 0 supporting note(s) in the local memory library.
+
+### Supporting Note Digest
+- `ahrefs-insights-from-55-point-8m-ai-overviews.md`: This large Ahrefs AIO study establishes the baseline economics of AI Overviews: they are growing, highly concentrated, and disproportionately affect informational search visibility.
+- `ahrefs-ai-overviews-position-study.md`: Ahrefs found that while AI Overviews usually appear in the top position, a meaningful minority appear lower in the SERP, which means AIOs should be treated as variable layout elements rather than fixed rank-1 features.
+- `ahrefs-featured-snippets-study.md`: Ahrefs analyzed 2 million featured snippets to understand how they work, who gets them, and how to win them. Key finding: featured snippets significantly increase click-through rates and you don't need to rank #1 to get them.
+- `ahrefs-ai-overview-citations.md`: Ahrefs study of 863K SERPs revealing how Google's AI Overviews select citation sources. The headline: only 38% of AI Overview citations come from top 10 ranking pages — down massively from 76% a year ago. This means ranking #1 no longer guarantees AI Overview inclusion, and non-ranking sources (especially YouTube) are being cited heavily.
+
+### Retrieval Guidance
+- Start with this note for the topic baseline and open the supporting notes only when you need source-specific evidence or edge cases.
+- Use the attached digest to avoid re-reading overlapping notes during planning and research.
+<!-- phase9:end -->
+
+
+<!-- phase10:begin -->
+## Evidence Fusion
+
+Evidence confidence: medium
+Freshness status: current
+Distinct sources: Ahrefs
+
+### Cross-Source Signals
+- **Ahrefs**: This Ahrefs guide is the baseline operating manual for AI Overviews: where they show, how they behave, and why they materially change CTR, citation strategy, and informational SEO economics.
+
+### Consensus
+- The evidence set agrees that AI Overviews change informational SERP economics and should be modeled separately from classic blue-link rankings.
+- Citation opportunity and traffic retention are now different goals, even when the same query triggers both.
+- Recurring source signals: ai overviews, search features, citations.
+
+### Tension / Caveat
+- Visibility can increase while clicks contract, so citation wins and traffic wins should not be treated as the same outcome. Current evidence is still source-concentrated, so treat it as directional rather than fully cross-validated.
+
+### Squad Action
+- Use this canon when separating citation strategy from click strategy on informational SERPs.
+<!-- phase10:end -->

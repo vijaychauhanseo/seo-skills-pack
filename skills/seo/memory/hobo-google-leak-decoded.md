@@ -62,3 +62,43 @@ The 2024 Google Content Warehouse API leak + the DOJ antitrust trial combined to
 - **Plankton (Writer)**: "Prove it" principle — every article needs evidence, examples, data. No thin assertions
 - **Current (Marketing)**: NavBoost = user engagement = rankings. Content that gets shares and return visits sends positive NavBoost signals
 - **@learnaiwithvijay**: AI content niche + E-E-A-T evidence + strong CTR optimization = the formula for AI Overview citations AND organic rankings
+
+
+
+
+
+<!-- phase9:begin -->
+## Canonical Synthesis
+
+This canonical note is reinforced by 1 merge candidate(s) and 1 supporting note(s) in the local memory library.
+
+### Supporting Note Digest
+- `hobo-perdocdata.md`: PerDocData is Google's core per-document data structure revealed in the Content Warehouse leak — it's the "Rosetta Stone" of how Google evaluates every individual document, encompassing authority, semantic understanding, click signals, freshness, and spam demotions in a single model.
+- `hobo-google-updates-mapping.md`: This Hobo article maps famous Google updates to specific leaked attributes and systems, turning years of SEO lore into a more concrete architecture of penalties, boosts, and quality modules.
+
+### Retrieval Guidance
+- Start with this note for the topic baseline and open the supporting notes only when you need source-specific evidence or edge cases.
+- Use the attached digest to avoid re-reading overlapping notes during planning and research.
+<!-- phase9:end -->
+
+
+<!-- phase10:begin -->
+## Evidence Fusion
+
+Evidence confidence: medium
+Freshness status: current
+Distinct sources: Hobo
+
+### Cross-Source Signals
+- **Hobo**: The 2024 Google Content Warehouse API leak + the DOJ antitrust trial combined to reveal Google's actual ranking blueprint — not theory, not reverse engineering. This is the foundational document for all post-leak SEO strategy. Shaun Anderson's decoded analysis: "We're not reverse-engineering. We're reading the blueprints.".
+
+### Consensus
+- Sources converge that `ranking architecture` should be treated as a repeatable operating concern, not a one-off tactic.
+- Recurring signals across the evidence set: google leak, ranking signals.
+
+### Tension / Caveat
+- No strong source conflict stands out in the current evidence set; the supporting notes mostly add nuance rather than contradict the primary canon.
+
+### Squad Action
+- Use the canonical note first, then open supporting evidence only when you need source-specific proof, edge cases, or fresher platform behavior.
+<!-- phase10:end -->

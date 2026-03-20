@@ -3,6 +3,9 @@ source: https://ahrefs.com/blog/how-long-does-seo-take/
 title: How Long Does SEO Take to Show Results?
 scraped: 2026-03-18
 tags: SEO timeline, ranking factors, SEO expectations, domain authority, new site SEO
+topic: seo_research
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

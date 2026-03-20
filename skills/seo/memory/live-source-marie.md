@@ -22,7 +22,7 @@ Feed source: https://www.mariehaynes.com/feed/
 Feed title: Marie Haynes
 Latest published date: 2026-03-09
 New items since last run: 0
-Snapshot path: /Users/vijaychauhan/squad_memory/ingest/raw/marie/2026-03-20/20260320T043001Z-feed-73dab22cdc.xml
+Snapshot path: /Users/vijaychauhan/squad_memory/ingest/reputable/raw/marie/2026-03-20/20260320T125522Z-feed-73dab22cdc.xml
 
 ## Latest Items
 - 2026-03-09 | [5 things I learned about the future of Search from Liz Reid’s latest interview](https://www.mariehaynes.com/5-things-i-learned-about-the-future-of-search-from-liz-reids-latest-interview/)
@@ -41,7 +41,3 @@ Snapshot path: /Users/vijaychauhan/squad_memory/ingest/raw/marie/2026-03-20/2026
   Google says every enterprise will soon rely on multi-agent systems - multiple AI agents working together. That sounds exciting and futuristic, but what I’ve found when talking to my clients is that while agents sound like something we should all be building, there’s little inform
 - 2025-09-11 | [Google Quality Raters now rate AI Overviews](https://www.mariehaynes.com/google-quality-raters-now-rate-ai-overviews/)
   Today Google's Quality Rater Guidelines updated September 11, 2025 with some minor changes. I think some of these are worth noting however! Three examples were added to the guidelines that I believe are significant as they all instruct the raters to assess content that is an AI O
-- 2025-09-11 | [FastSearch, MAGIT and everything else we learned about Google’s AI from the DOJ trial](https://www.mariehaynes.com/google-doj-trial-on-ai/)
-  If you missed it, earlier this week I published a piece on everything we learned about Google’s search algorithms from the DOJ vs Google trial. Boy, there is a lot! In this article, we’ll focus on AI. Key Takeaways: -Google's AI trains on the Google Common Corpus (GCC). -A Gemini
-- 2025-09-04 | [What Google’s Trial Docs Reveal About Clicks, Links and Other Ranking Signals](https://www.mariehaynes.com/what-googles-trial-docs-reveal-about-clicks-links-and-other-ranking-signals/)
-  The DOJ vs Google trial has finally wrapped up. The closing document is full of interesting insight into how Google’s algorithms work. While the final verdict of the trial is a separate story, the documents released gave us an unprecedented look inside Google's ranking systems. I

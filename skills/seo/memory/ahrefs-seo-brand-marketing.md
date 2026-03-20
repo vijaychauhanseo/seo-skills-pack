@@ -3,6 +3,9 @@ source: https://ahrefs.com/blog/seo-brand-marketing/
 title: SEO Brand Marketing: Create a Brand Guide That Drives Search Visibility
 scraped: 2026-03-20
 tags: brand marketing, entity seo, brand guide, ai search, differentiation, brand voice
+topic: brand_visibility
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

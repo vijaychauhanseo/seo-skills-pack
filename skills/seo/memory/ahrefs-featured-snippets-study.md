@@ -3,6 +3,9 @@ source: https://ahrefs.com/blog/featured-snippets-study/
 title: Ahrefs' Study Of 2 Million Featured Snippets: 10 Important Takeaways
 scraped: 2026-03-18
 tags: featured snippets, SERP features, click-through rate, rankings, Google, on-page SEO
+topic: ai_overviews
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

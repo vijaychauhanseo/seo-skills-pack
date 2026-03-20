@@ -3,6 +3,9 @@ source: https://www.hobo-web.co.uk/how-human-quality-raters-are-used-new-evidenc
 title: DOJ v. Google Disclosure: How Human Quality Raters Are Used
 scraped: 2026-03-20
 tags: quality raters, rankembed, google doj, eeat, ranking models, training data
+topic: site_trust_system
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

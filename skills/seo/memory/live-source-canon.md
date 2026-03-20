@@ -18,18 +18,13 @@ avoid_for: final_strategy_without_supporting_memory
 Use this note to choose which live source canon note to open first.
 
 ## Current Canon Notes
-- [live-source-canon-ahrefs.md](./live-source-canon-ahrefs.md) | Ahrefs Blog | latest=2026-03-17 | items=10
-- [live-source-canon-aleyda.md](./live-source-canon-aleyda.md) | Aleyda Solis | latest=2026-02-14 | items=6
-- [live-source-canon-brodie.md](./live-source-canon-brodie.md) | Brodie Clark | latest=2025-09-15 | items=8
-- [live-source-canon-dejan.md](./live-source-canon-dejan.md) | DEJAN / Dan Petrovic | latest=2026-03-20 | items=10
-- [live-source-canon-google-search-central.md](./live-source-canon-google-search-central.md) | Google Search Central Blog | latest=2026-03-11 | items=10
-- [live-source-canon-gsqi.md](./live-source-canon-gsqi.md) | Glenn Gabe / GSQi | latest=2026-03-18 | items=8
-- [live-source-canon-hobo.md](./live-source-canon-hobo.md) | Hobo Web | latest=2026-03-18 | items=10
+- [live-source-canon-ahrefs.md](./live-source-canon-ahrefs.md) | Ahrefs Blog | latest=2026-03-17 | items=8
+- [live-source-canon-brodie.md](./live-source-canon-brodie.md) | Brodie Clark | latest=2025-09-15 | items=6
+- [live-source-canon-dejan.md](./live-source-canon-dejan.md) | DEJAN / Dan Petrovic | latest=2026-03-20 | items=8
+- [live-source-canon-google-search-central.md](./live-source-canon-google-search-central.md) | Google Search Central Blog | latest=2026-03-11 | items=8
+- [live-source-canon-gsqi.md](./live-source-canon-gsqi.md) | Glenn Gabe / GSQi | latest=2026-03-18 | items=6
 - [live-source-canon-ipullrank.md](./live-source-canon-ipullrank.md) | Mike King / iPullRank | latest=2026-03-12 | items=5
 - [live-source-canon-jono.md](./live-source-canon-jono.md) | Jono Alderson | latest=2026-03-12 | items=8
-- [live-source-canon-lily.md](./live-source-canon-lily.md) | Lily Ray | latest=2025-12-17 | items=10
-- [live-source-canon-marie.md](./live-source-canon-marie.md) | Marie Haynes | latest=2026-03-09 | items=10
-- [live-source-canon-mobilemoxie.md](./live-source-canon-mobilemoxie.md) | Cindy Krum / MobileMoxie | latest=2025-01-31 | items=10
-- [live-source-canon-search-engine-journal.md](./live-source-canon-search-engine-journal.md) | Search Engine Journal | latest=2026-03-19 | items=10
-- [live-source-canon-search-engine-land.md](./live-source-canon-search-engine-land.md) | Search Engine Land | latest=2026-03-19 | items=10
-- [live-source-canon-seroundtable.md](./live-source-canon-seroundtable.md) | Search Engine Roundtable | latest=2026-03-19 | items=10
+- [live-source-canon-lily.md](./live-source-canon-lily.md) | Lily Ray | latest=2025-12-17 | items=8
+- [live-source-canon-marie.md](./live-source-canon-marie.md) | Marie Haynes | latest=2026-03-09 | items=8
+- [live-source-canon-mobilemoxie.md](./live-source-canon-mobilemoxie.md) | Cindy Krum / MobileMoxie | latest=2025-01-31 | items=8

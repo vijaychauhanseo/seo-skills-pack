@@ -22,35 +22,24 @@ Top-5 path hit: 100.00
 
 ## Freshest Notes
 - [live-source-canon-dejan.md](./live-source-canon-dejan.md) | topic=ai_reverse_engineering | latest=2026-03-20 | freshness=1.00
-- [live-source-canon-search-engine-journal.md](./live-source-canon-search-engine-journal.md) | topic=industry_news | latest=2026-03-19 | freshness=1.00
-- [live-source-canon-search-engine-land.md](./live-source-canon-search-engine-land.md) | topic=industry_news | latest=2026-03-19 | freshness=1.00
-- [live-source-canon-seroundtable.md](./live-source-canon-seroundtable.md) | topic=daily_monitoring | latest=2026-03-19 | freshness=1.00
 - [live-source-canon-ahrefs.md](./live-source-canon-ahrefs.md) | topic=seo_research | latest=2026-03-17 | freshness=0.85
 - [live-source-canon-gsqi.md](./live-source-canon-gsqi.md) | topic=quality_systems | latest=2026-03-18 | freshness=0.85
-- [live-source-canon-hobo.md](./live-source-canon-hobo.md) | topic=quality_systems | latest=2026-03-18 | freshness=0.85
 - [live-source-canon-google-search-central.md](./live-source-canon-google-search-central.md) | topic=official_guidance | latest=2026-03-11 | freshness=0.65
+- [live-source-canon-ipullrank.md](./live-source-canon-ipullrank.md) | topic=relevance_engineering | latest=2026-03-12 | freshness=0.65
+- [live-source-canon-jono.md](./live-source-canon-jono.md) | topic=technical_architecture | latest=2026-03-12 | freshness=0.65
+- [live-source-canon-marie.md](./live-source-canon-marie.md) | topic=rollout_and_qrg | latest=2026-03-09 | freshness=0.65
+- [live-source-canon-brodie.md](./live-source-canon-brodie.md) | topic=reporting_and_serp_features | latest=2025-09-15 | freshness=0.20
 
 ## Topic Clusters
 ### ai_reverse_engineering
 - sources=1 | avg_freshness=1.00 | freshest=[live-source-canon-dejan.md](./live-source-canon-dejan.md)
   - live-source-canon-dejan.md | latest=2026-03-20 | confidence=high
-### daily_monitoring
-- sources=1 | avg_freshness=1.00 | freshest=[live-source-canon-seroundtable.md](./live-source-canon-seroundtable.md)
-  - live-source-canon-seroundtable.md | latest=2026-03-19 | confidence=medium
-### industry_news
-- sources=2 | avg_freshness=1.00 | freshest=[live-source-canon-search-engine-journal.md](./live-source-canon-search-engine-journal.md)
-  - live-source-canon-search-engine-journal.md | latest=2026-03-19 | confidence=medium
-  - live-source-canon-search-engine-land.md | latest=2026-03-19 | confidence=medium
 ### official_guidance
 - sources=1 | avg_freshness=0.65 | freshest=[live-source-canon-google-search-central.md](./live-source-canon-google-search-central.md)
   - live-source-canon-google-search-central.md | latest=2026-03-11 | confidence=high
-### operations_and_international
-- sources=1 | avg_freshness=0.40 | freshest=[live-source-canon-aleyda.md](./live-source-canon-aleyda.md)
-  - live-source-canon-aleyda.md | latest=2026-02-14 | confidence=high
 ### quality_systems
-- sources=2 | avg_freshness=0.85 | freshest=[live-source-canon-gsqi.md](./live-source-canon-gsqi.md)
+- sources=1 | avg_freshness=0.85 | freshest=[live-source-canon-gsqi.md](./live-source-canon-gsqi.md)
   - live-source-canon-gsqi.md | latest=2026-03-18 | confidence=high
-  - live-source-canon-hobo.md | latest=2026-03-18 | confidence=medium
 ### relevance_engineering
 - sources=1 | avg_freshness=0.65 | freshest=[live-source-canon-ipullrank.md](./live-source-canon-ipullrank.md)
   - live-source-canon-ipullrank.md | latest=2026-03-12 | confidence=high

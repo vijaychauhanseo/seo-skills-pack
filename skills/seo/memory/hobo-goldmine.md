@@ -3,6 +3,9 @@ source: https://www.hobo-web.co.uk/google-goldmine/
 title: What Is 'Goldmine'? Google's Quality Judge For SERPS Leaked
 scraped: 2026-03-20
 tags: goldmine, titles, snippets, serp rewriting, query rewriting, google leak, on-page seo
+topic: document_quality_system
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

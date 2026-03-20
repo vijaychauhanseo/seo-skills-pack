@@ -22,7 +22,7 @@ Feed source: https://dejan.ai/blog/feed/
 Feed title: DEJAN
 Latest published date: 2026-03-20
 New items since last run: 0
-Snapshot path: /Users/vijaychauhan/squad_memory/ingest/raw/dejan/2026-03-20/20260320T043001Z-blog-feed-c3093c3a5c.xml
+Snapshot path: /Users/vijaychauhan/squad_memory/ingest/reputable/raw/dejan/2026-03-20/20260320T125522Z-blog-feed-c3093c3a5c.xml
 
 ## Latest Items
 - 2026-03-20 | [Fanout Query Analysis](https://dejan.ai/blog/fanout-query-analysis/)
@@ -41,7 +41,3 @@ Snapshot path: /Users/vijaychauhan/squad_memory/ingest/raw/dejan/2026-03-20/2026
   I’ve been reverse-engineering Google’s Gemini grounding pipeline (AI Mode, Gemini Chat…etc) by examining the raw groundingSupports and groundingChunks returned by the API. Specifically, I’m interested in the snippet construction step, the part where, given a query and a retrieved
 - 2026-02-24 | [Implicit Queries in AI Search](https://dejan.ai/blog/implicit-queries-in-ai-search/)
   Back in 2015 I wrote about Google’s reliance of user behaviours signals for ranking purposes. In that article I already covered their use of implicit signals, but now there’s an update! While investigating Google’s grounding pipeline (the system that feeds web content to Gemini b
-- 2026-02-18 | [Sorry Google, I was wrong.](https://dejan.ai/blog/sorry-google-i-was-wrong/)
-  What Happened I run several tools on the Gemini API. One of them is a grounded search analysis tool that works in two stages: Gemini 2.0 Flash does a Google Search grounded query, then Gemini 3 Pro visits each source page using the URL Context tool to classify its content. Throug
-- 2026-02-18 | [AI Search Has a Spam Problem](https://dejan.ai/blog/ai-spam/)
-  Google’s Gemini can tell you I’m the best AI SEO expert in the world. I know this because I told it so — on my own website — and it believed me. That should concern you. The Problem: AI Models Are Naive Readers When Gemini, ChatGPT or Perplexity generate an answer, they don’t sta

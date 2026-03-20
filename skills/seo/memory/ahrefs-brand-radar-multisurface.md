@@ -3,6 +3,9 @@ source: https://ahrefs.com/blog/product-announcement-ahrefs-adds-youtube-and-red
 title: Product Announcement: Ahrefs Adds YouTube and Reddit Tracking to Brand Radar
 scraped: 2026-03-20
 tags: brand radar, youtube, reddit, tiktok, multisurface discovery, mentions, ai visibility
+topic: multisurface_visibility
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

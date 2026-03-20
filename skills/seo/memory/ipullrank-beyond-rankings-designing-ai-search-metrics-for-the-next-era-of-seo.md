@@ -7,13 +7,15 @@ topic: relevance_engineering
 intent: ai_selection, execution, monitoring, research, source_selection
 role: researcher, seo, pinchy
 confidence: medium
-canonical: false
-canonical_group: Live approved promotions
+canonical: true
+canonical_group: Relevance engineering
 use_for: monitoring_follow_up, source_selection
 avoid_for: blind_reuse_without_source_check
 promoted_from: phase5/ipullrank-beyond-rankings-designing-ai-search-metrics-for-the-next-era-of-seo.md
 promotion_status: approved
 approved_on: 2026-03-20
+canonicalized_on: 2026-03-20
+canonicalized_by: phase8_promote_canon
 ---
 
 # Beyond Rankings: Designing AI Search Metrics for the Next Era of SEO
@@ -47,3 +49,24 @@ Rankings don’t equal revenue anymore. Search is different and as marketers, we
 - Use this note when the live source signal is strong enough to influence durable SEO strategy.
 - Pair it with the source canon note first if you need freshness or chronology.
 - Revisit the source article directly if the claim becomes a major planning input.
+
+
+<!-- phase10:begin -->
+## Evidence Fusion
+
+Evidence confidence: low
+Freshness status: current
+Distinct sources: iPullRank
+
+### Cross-Source Signals
+- **iPullRank**: Rankings don’t equal revenue anymore. Search is different and as marketers, we need to learn how to handle the new requirements of AI Search. It’s not just SEO. “The foundational assumptions that built the entire marketing departments of SEO are crumbling,” said iPullRank Directo.
+
+### Consensus
+- Sources converge that `relevance engineering` should be treated as a repeatable operating concern, not a one-off tactic.
+
+### Tension / Caveat
+- No strong source conflict stands out in the current evidence set; the supporting notes mostly add nuance rather than contradict the primary canon.
+
+### Squad Action
+- Use the canonical note first, then open supporting evidence only when you need source-specific proof, edge cases, or fresher platform behavior.
+<!-- phase10:end -->

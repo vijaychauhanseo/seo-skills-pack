@@ -3,6 +3,9 @@ source: https://www.hobo-web.co.uk/core-web-vitals-seo-after-the-google-content-
 title: Core Web Vitals SEO After The Google Content Warehouse API Data Leaks
 scraped: 2026-03-20
 tags: core web vitals, cwv, page experience, mobile volt, navboost, lcp, inp, cls
+topic: technical_architecture
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

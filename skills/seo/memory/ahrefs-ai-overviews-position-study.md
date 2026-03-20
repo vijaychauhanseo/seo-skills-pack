@@ -3,6 +3,9 @@ source: https://ahrefs.com/blog/ai-overviews-positions/
 title: 8.64% of AI Overviews Appear Outside Position #1 (And as Low as Position #6)
 scraped: 2026-03-20
 tags: ai overviews, serp positions, layout volatility, visibility, ranking surfaces
+topic: ai_overviews
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

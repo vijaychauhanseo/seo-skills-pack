@@ -22,7 +22,7 @@ Feed source: https://lilyray.nyc/feed/
 Feed title: Lily Ray
 Latest published date: 2025-12-17
 New items since last run: 0
-Snapshot path: /Users/vijaychauhan/squad_memory/ingest/raw/lily/2026-03-20/20260320T043001Z-feed-0673802edf.xml
+Snapshot path: /Users/vijaychauhan/squad_memory/ingest/reputable/raw/lily/2026-03-20/20260320T125522Z-feed-0673802edf.xml
 
 ## Latest Items
 - 2025-12-17 | [The Top 10 Experts at Knowing What Google “Really Wants” in 2026](https://lilyray.nyc/the-top-10-experts-at-knowing-what-google-really-wants-in-2026/)
@@ -41,7 +41,3 @@ Snapshot path: /Users/vijaychauhan/squad_memory/ingest/raw/lily/2026-03-20/20260
   I had the privilege of attending, speaking, and DJing at the first ever SEO Week conference, held by iPullRank in New York City. SEO Week was the longest and most Continue reading SEO in the Age of Agents: Takeaways from NYC SEO Week The post SEO in the Age of Agents: Takeaways f
 - 2025-04-22 | [Busta Rhymes, Mic King & Lily Ray at SEOWeek](https://lilyray.nyc/busta-rhymes-mic-king-lily-ray-at-seoweek/)
   I’m so excited to announce that I will be DJing with the legendary Busta Rhymes and incredible Mic King next week at SEO Week in NYC. Mike and I have Continue reading Busta Rhymes, Mic King & Lily Ray at SEOWeek The post Busta Rhymes, Mic King & Lily Ray at SEOWeek appeared first
-- 2025-03-24 | [What I learned at the 2025 Google Search Central Meetup in NYC](https://lilyray.nyc/what-i-learned-at-the-2025-google-search-central-meetup-in-nyc/)
-  By Lily Ray I spent last Thursday, March 20, 2025, at the Google Search Central meetup in NYC, where members of the Google Search and Search Relations teams offered a Continue reading What I learned at the 2025 Google Search Central Meetup in NYC The post What I learned at the 20
-- 2024-01-10 | [A Song About Imposter Syndrome in the SEO Industry](https://lilyray.nyc/a-song-about-imposter-syndrome-in-the-seo-industry/)
-  I was inspired to write a song with my friend ChatGPT about Imposter Syndrome in the SEO Industry. Pick your favorite style: R&B version | Beatles version | Bob Dylan Continue reading A Song About Imposter Syndrome in the SEO Industry The post A Song About Imposter Syndrome in th

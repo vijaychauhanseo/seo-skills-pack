@@ -3,6 +3,9 @@ source: https://ahrefs.com/blog/alternative-search-engines/
 title: 20 Alternative Search Engines to Google
 scraped: 2026-03-18
 tags: search engines, Bing, DuckDuckGo, Perplexity, AI search, Brave Search, SEO beyond Google
+topic: ai_search_monitoring
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

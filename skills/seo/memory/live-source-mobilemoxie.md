@@ -22,7 +22,7 @@ Feed source: https://mobilemoxie.com/blog/feed/
 Feed title: MobileMoxie Blog
 Latest published date: 2025-01-31
 New items since last run: 0
-Snapshot path: /Users/vijaychauhan/squad_memory/ingest/raw/mobilemoxie/2026-03-20/20260320T043001Z-blog-feed-21866bf33d.xml
+Snapshot path: /Users/vijaychauhan/squad_memory/ingest/reputable/raw/mobilemoxie/2026-03-20/20260320T125522Z-blog-feed-21866bf33d.xml
 
 ## Latest Items
 - 2025-01-31 | [Tool Release Notes – January 2025](https://mobilemoxie.com/blog/january-release-notes-mobile-moxie-tools/)
@@ -41,7 +41,3 @@ Snapshot path: /Users/vijaychauhan/squad_memory/ingest/raw/mobilemoxie/2026-03-2
   WebPageTest and Technical SEO This article is an instructional guide to help you accurately test load time using WebPageTest.org. It is a supporting tutorial that is part of the MobileMoxie Technical SEO Article Series. In May 2021, Google released one of their biggest algorithm 
 - 2021-07-22 | [How to Optimize Robot Instructions for Technical SEO](https://mobilemoxie.com/blog/how-to-optimize-robot-instructions-for-technical-seo/)
   Robot.txt, On-page Robot Instructions & their Importance in SEO Crawling, indexing, rendering and ranking are the 4 basic elements of SEO. This article will focus on how robot instructions can be improved to have a positive site-wide impact on SEO and help you manage what pages o
-- 2020-09-17 | [Webinar: Mobile-First Indexing: What Got You There, Won’t Get You Here](https://mobilemoxie.com/blog/webinar-mobile-first-indexing-what-got-you-there-wont-get-you-here/)
-  At MobileMoxie, we believe that Google’s Launch of Mobile-First Indexing enabled them to change the organization of their index, which in turn, is changing the look and feel of most search results – especially on mobile. This presentation focuses on the very important data that i
-- 2020-09-15 | [Android Language Settings on Pixel 3/3XL](https://mobilemoxie.com/blog/android-language-settings-on-pixel-3-3xl/)
-  By: Denica Masby This article is an instructional guide for changing the language in Android Phone Settings, Google Cloud Account, and Search Settings on Google. It is a supporting navigational read for Query Language, Phone Language & Physical Location Article from The Entity & 

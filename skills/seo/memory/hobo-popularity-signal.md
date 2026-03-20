@@ -3,6 +3,9 @@ source: https://www.hobo-web.co.uk/doj-v-google-disclosure-the-popularity-signal
 title: DOJ v. Google Disclosure: The Popularity Signal (P*)
 scraped: 2026-03-20
 tags: popularity, p-star, chrome data, navboost, links, google doj, user behaviour
+topic: click_behavior_systems
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

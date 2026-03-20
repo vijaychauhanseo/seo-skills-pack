@@ -3,6 +3,9 @@ source: https://www.hobo-web.co.uk/topical-authority/
 title: Topical Authority: Site Radius & Site Focus Score from the Google Leak
 scraped: 2026-03-18
 tags: topical authority, site radius, site focus score, google leak, relevance, content strategy, T-star
+topic: relevance_system
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

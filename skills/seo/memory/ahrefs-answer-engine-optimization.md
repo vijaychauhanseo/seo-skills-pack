@@ -3,6 +3,9 @@ source: https://ahrefs.com/blog/answer-engine-optimization/
 title: Answer Engine Optimization: How to Win in AI-Powered Search
 scraped: 2026-03-20
 tags: aeo, geo, ai answers, answer formatting, citations, topic gaps
+topic: ai_visibility
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

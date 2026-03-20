@@ -39,3 +39,44 @@ Hobo’s model treats E-E-A-T as Google’s public doctrine, Q* as the underlyin
 - **Developer / Chitin**: Reduce site-level trust leaks such as broken pages, weak templates, thin archives, intrusive UX, and inconsistent metadata.
 - **Current (Marketing)**: Brand building is not separate from SEO in this model. Reputation and search resilience reinforce each other.
 - **Key insight for the team**: Don’t chase isolated ranking tricks. Build a site that repeatedly signals trust, authority, and topical fit at every layer.
+
+
+
+
+
+
+<!-- phase9:begin -->
+## Canonical Synthesis
+
+This canonical note is reinforced by 2 merge candidate(s) and 0 supporting note(s) in the local memory library.
+
+### Supporting Note Digest
+- `hobo-linkbuilding-after-leak.md`: Hobo’s post-leak link building model argues that link value is dynamic, not static, and is continuously requalified by source authority, user validation, and time.
+- `hobo-human-quality-raters.md`: Hobo argues that human quality rater scores are not merely evaluation benchmarks but direct training data for core Google ranking models such as RankEmbed and RankEmbedBERT.
+
+### Retrieval Guidance
+- Start with this note for the topic baseline and open the supporting notes only when you need source-specific evidence or edge cases.
+- Use the attached digest to avoid re-reading overlapping notes during planning and research.
+<!-- phase9:end -->
+
+
+<!-- phase10:begin -->
+## Evidence Fusion
+
+Evidence confidence: medium
+Freshness status: current
+Distinct sources: Hobo
+
+### Cross-Source Signals
+- **Hobo**: Hobo’s model treats E-E-A-T as Google’s public doctrine, Q* as the underlying quality system, and `Site_Quality` as the practical output that shapes a domain’s ability to rank.
+
+### Consensus
+- Sources converge that `site trust system` should be treated as a repeatable operating concern, not a one-off tactic.
+- Recurring signals across the evidence set: eeat, site authority, google leak.
+
+### Tension / Caveat
+- Human-quality framing and machine-quality scoring reinforce each other, but neither should be read as a standalone ranking recipe. Current evidence is still source-concentrated, so treat it as directional rather than fully cross-validated.
+
+### Squad Action
+- Use this canon when the task is trust, rater-adjacent quality systems, or E-E-A-T style audits.
+<!-- phase10:end -->

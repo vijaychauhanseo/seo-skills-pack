@@ -3,6 +3,9 @@ source: https://ahrefs.com/blog/ke-keyword-grouping/
 title: Keyword Grouping in Keywords Explorer
 scraped: 2026-03-18
 tags: keyword research, keyword clustering, keyword grouping, Ahrefs Keywords Explorer, content planning
+topic: keyword_research
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

@@ -3,6 +3,9 @@ source: https://ahrefs.com/blog/buyer-intent-keywords/
 title: Buyer Intent Keywords Convert Better. Here's How to Find Them
 scraped: 2026-03-18
 tags: keyword research, buyer intent, conversion, commercial keywords, purchase intent, PPC vs SEO
+topic: keyword_research
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

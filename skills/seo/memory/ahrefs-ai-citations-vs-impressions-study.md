@@ -3,6 +3,9 @@ source: https://ahrefs.com/blog/ai-citations-vs-impressions-study/
 title: Do AI Assistants Link When Mentioning Brands? For Ahrefs, Only 28% of the Time
 scraped: 2026-03-20
 tags: ai citations, brand mentions, impressions, attribution, link rate, brand radar
+topic: brand_mentions
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

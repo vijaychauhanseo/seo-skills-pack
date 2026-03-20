@@ -22,7 +22,7 @@ Feed source: https://feeds.feedburner.com/blogspot/amDG
 Feed title: Google Search Central Blog
 Latest published date: 2026-03-11
 New items since last run: 0
-Snapshot path: /Users/vijaychauhan/squad_memory/ingest/raw/google-search-central/2026-03-20/20260320T043001Z-blogspot-amdg-c7d851a6f5.xml
+Snapshot path: /Users/vijaychauhan/squad_memory/ingest/reputable/raw/google-search-central/2026-03-20/20260320T125522Z-blogspot-amdg-c7d851a6f5.xml
 
 ## Latest Items
 - 2026-03-11 | [Search Central Live is coming to Canada](https://developers.google.com/search/blog/2026/03/scl-canada-2026)
@@ -41,7 +41,3 @@ Snapshot path: /Users/vijaychauhan/squad_memory/ingest/raw/google-search-central
   The Search Console Performance report is a powerful tool to analyze organic search traffic, but finding the exact data you need can take more time than you'd like. Today, we're excited to announce an experimental feature in the Performance report designed to reduce the effort it 
 - 2025-11-20 | [Introducing the Branded queries filter in Search Console](https://developers.google.com/search/blog/2025/11/search-console-branded-filter)
   We're happy to announce we're providing an additional tool to analyze the performance of your website by query type in the Search Console Performance Report: the branded queries filter. This new feature is designed to help analyze the queries driving traffic to your site by autom
-- 2025-11-17 | [Adding context to your Search Console data with custom annotations](https://developers.google.com/search/blog/2025/11/custom-chart-annotations)
-  We're always looking for new ways to help you understand your data and make smarter decisions when it comes to Google Search. That's why we're happy to announce a new feature within the Search Console performance reports: Custom annotations. This feature is designed to empower yo
-- 2025-11-12 | [More ways to share your shipping and returns policies with Google](https://developers.google.com/search/blog/2025/11/more-ways-to-share-shipping)
-  We're excited to announce that we're now expanding the options for merchants to provide shipping and returns information, even if they don't have a Merchant Center account. Merchants can now tell Google about their shipping and returns policies in two distinct ways: by configurin

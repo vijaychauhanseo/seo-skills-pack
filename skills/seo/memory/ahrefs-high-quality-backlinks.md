@@ -3,6 +3,9 @@ source: https://ahrefs.com/blog/high-quality-backlinks/
 title: 4 Tactics for High-Quality Backlinks That Move the Needle [+ Examples]
 scraped: 2026-03-18
 tags: link building, backlinks, digital PR, data journalism, statistics, relationship building
+topic: brand_mentions
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

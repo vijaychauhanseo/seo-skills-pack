@@ -3,6 +3,9 @@ source: https://ahrefs.com/blog/loss-of-seo-visibility/
 title: SEO Visibility - The Complete Guide to Fixing a Search Visibility Loss
 scraped: 2026-03-18
 tags: SEO visibility, traffic drop, ranking loss, Google algorithm, penalty, technical SEO, diagnosis
+topic: seo_execution
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

@@ -40,3 +40,49 @@ Ahrefs turns AI brand mention monitoring into a repeatable operating workflow: t
 - **Current (Marketing)**: Treat AI mention growth as a strategic market-positioning signal.
 - **Charles**: Use competitor gap analysis to target YouTube, Reddit, Quora, and publisher surfaces where brand presence is missing.
 - **Key insight for @learnaiwithvijay**: The fastest way to improve AI mentions is often to improve the sources AI already trusts.
+
+
+
+
+
+
+<!-- phase9:begin -->
+## Canonical Synthesis
+
+This canonical note is reinforced by 1 merge candidate(s) and 5 supporting note(s) in the local memory library.
+
+### Supporting Note Digest
+- `ahrefs-ai-citations-vs-impressions-study.md`: Ahrefs shows that AI brand visibility cannot be judged by citation counts alone because brands are mentioned far more often than they are linked, and high-volume prompts can make low citation rates still highly visible.
+- `ahrefs-pr-campaign-examples.md`: Real-world PR campaigns analyzed by their actual link/coverage results. The takeaway: the best PR campaigns combine a shareable angle (surprising, emotional, or controversial) with genuine news value. PR = the most powerful link building strategy at scale.
+- `ahrefs-online-reputation-management.md`: Online Reputation Management (ORM) = controlling what people see when they search for you or your brand. The goal is to push positive, authoritative content to page 1 while suppressing or addressing negative content. Critical for any creator or brand building a public presence.
+- `ahrefs-high-quality-backlinks.md`: Most link building tactics are outdated. This article focuses on 4 modern tactics that generate high-DR, editorial backlinks that actually move rankings: Digital PR, Data Journalism, Statistics pages, and Relationship-based link building.
+- `ahrefs-fast-link-building.md`: A step-by-step guide for launching a link building campaign quickly while building repeatable, scalable systems. The framework separates "finding prospects + contact info" from "outreach execution" to enable speed without sacrificing quality.
+- `ahrefs-black-hat-link-building.md`: Ahrefs ran a real experiment buying black hat link building services to test whether they actually improve rankings. Result: they don't work and create risk of Google penalties. Data-driven proof to avoid these tactics.
+
+### Retrieval Guidance
+- Start with this note for the topic baseline and open the supporting notes only when you need source-specific evidence or edge cases.
+- Use the attached digest to avoid re-reading overlapping notes during planning and research.
+<!-- phase9:end -->
+
+
+<!-- phase10:begin -->
+## Evidence Fusion
+
+Evidence confidence: medium
+Freshness status: current
+Distinct sources: Ahrefs
+
+### Cross-Source Signals
+- **Ahrefs**: Ahrefs turns AI brand mention monitoring into a repeatable operating workflow: track mention growth, topic association, competitor gaps, citation sources, and factual inaccuracies, then use that intelligence to shape content and distribution.
+
+### Consensus
+- The evidence set converges on off-site brand presence as a durable discovery signal, not just a PR side effect.
+- Mentions, reputation, and third-party presence shape visibility even when the website itself is technically sound.
+- Recurring source signals: link building, brand mentions, brand radar.
+
+### Tension / Caveat
+- Entity mentions and backlinks overlap, but the stronger sources here treat broader off-site presence as more important than links alone. Current evidence is still source-concentrated, so treat it as directional rather than fully cross-validated.
+
+### Squad Action
+- Use this canon when the question is off-site presence, entity mentions, or visibility beyond rankings.
+<!-- phase10:end -->

@@ -3,6 +3,9 @@ source: https://ahrefs.com/blog/niche-market-examples/
 title: 7 Niche Market Examples You Can Learn From
 scraped: 2026-03-18
 tags: niche marketing, niche SEO, niche audience, brand positioning, content strategy, audience targeting
+topic: seo_research
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

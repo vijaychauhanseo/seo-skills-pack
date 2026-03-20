@@ -3,6 +3,9 @@ source: https://ahrefs.com/blog/ai-overview-citations-top-10/
 title: Update: 38% of AI Overview Citations Pull From Top 10 Pages
 scraped: 2026-03-18
 tags: AI Overviews, Google AI, SGE, citations, top 10, YouTube citations, AI search, GEO
+topic: ai_overviews
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

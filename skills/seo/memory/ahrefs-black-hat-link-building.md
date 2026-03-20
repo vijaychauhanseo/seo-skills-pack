@@ -3,6 +3,9 @@ source: https://ahrefs.com/blog/black-hat-link-building/
 title: Black Hat Link Building Services PART 2: Do They Work?
 scraped: 2026-03-18
 tags: black hat SEO, link building, link schemes, Google penalty, PBN, paid links
+topic: brand_mentions
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

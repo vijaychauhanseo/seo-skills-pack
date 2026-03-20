@@ -22,7 +22,7 @@ Feed source: https://ipullrank.com/feed/
 Feed title: iPullRank
 Latest published date: 2026-03-12
 New items since last run: 0
-Snapshot path: /Users/vijaychauhan/squad_memory/ingest/raw/ipullrank/2026-03-20/20260320T043001Z-feed-3ff647b06c.xml
+Snapshot path: /Users/vijaychauhan/squad_memory/ingest/reputable/raw/ipullrank/2026-03-20/20260320T125522Z-feed-3ff647b06c.xml
 
 ## Latest Items
 - 2026-03-12 | [Beyond Rankings: Designing AI Search Metrics for the Next Era of SEO](https://ipullrank.com/ai-search-metrics)

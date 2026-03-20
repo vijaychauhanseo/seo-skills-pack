@@ -3,6 +3,9 @@ source: https://ahrefs.com/blog/what-ai-means-for-seo/
 title: What AI Means for SEO
 scraped: 2026-03-20
 tags: ai seo, geo, chatgpt, zero click, content, links, technical seo, ai search
+topic: ai_visibility
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

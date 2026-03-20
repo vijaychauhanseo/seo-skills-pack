@@ -41,3 +41,45 @@ Ahrefs updated its earlier AIO CTR research and found that the impact appears ma
 - **Current (Marketing)**: Track branded search lift and conversion quality, not only sessions.
 - **Charles**: Amplify content outside Google so the business is less dependent on shrinking informational CTR.
 - **Key insight for @learnaiwithvijay**: AI search is compressing clicks faster than many teams have admitted. The content model has to adapt.
+
+
+
+
+
+
+<!-- phase9:begin -->
+## Canonical Synthesis
+
+This canonical note is reinforced by 1 merge candidate(s) and 0 supporting note(s) in the local memory library.
+
+### Supporting Note Digest
+- `hobo-zero-click-marketing.md`: Hobo presents zero-click search as both an existential traffic threat and a strategic reality, arguing that modern SEO must optimize for influence on the SERP as well as visits to the site.
+
+### Retrieval Guidance
+- Start with this note for the topic baseline and open the supporting notes only when you need source-specific evidence or edge cases.
+- Use the attached digest to avoid re-reading overlapping notes during planning and research.
+<!-- phase9:end -->
+
+
+<!-- phase10:begin -->
+## Evidence Fusion
+
+Evidence confidence: medium
+Freshness status: current
+Distinct sources: Ahrefs, Hobo
+
+### Cross-Source Signals
+- **Ahrefs**: Ahrefs updated its earlier AIO CTR research and found that the impact appears materially worse: by December 2025, AI Overviews correlated with a 58% lower CTR for the top-ranking result.
+- **Hobo**: Hobo presents zero-click search as both an existential traffic threat and a strategic reality, arguing that modern SEO must optimize for influence on the SERP as well as visits to the site.
+
+### Consensus
+- Sources converge that `aio click loss` should be treated as a repeatable operating concern, not a one-off tactic.
+- Recurring signals across the evidence set: ai overviews, zero click, traffic loss.
+- This topic is reinforced by 2 distinct source perspectives, which makes the canonical note safer to use as the default planning baseline.
+
+### Tension / Caveat
+- Some sources frame AIOs as brand exposure, while others emphasize the direct CTR compression on informational SEO.
+
+### Squad Action
+- Use this canon to model traffic compression, then pair it with brand-demand or citation notes if the task is broader than CTR loss.
+<!-- phase10:end -->

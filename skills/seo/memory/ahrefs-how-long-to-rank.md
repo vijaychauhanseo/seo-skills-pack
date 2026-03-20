@@ -3,6 +3,9 @@ source: https://ahrefs.com/blog/how-long-does-it-take-to-rank-in-google-and-how-
 title: How Long Does It Take to Rank in Google? And How Old Are Top Ranking Pages?
 scraped: 2026-03-18
 tags: ranking timeline, SEO expectations, new content, Google ranking, top-ranking pages, domain age
+topic: seo_research
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

@@ -3,6 +3,9 @@ source: https://ahrefs.com/blog/best-seo-plugins-for-wordpress/
 title: 15 Best SEO Plugins for WordPress (Tried & Tested)
 scraped: 2026-03-18
 tags: WordPress SEO, SEO plugins, Yoast SEO, Rank Math, technical SEO, WordPress optimization
+topic: technical_architecture
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

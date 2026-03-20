@@ -3,6 +3,9 @@ source: https://ahrefs.com/blog/insights-from-56-million-ai-overviews/
 title: Insights From 55.8M AI Overviews Across 590M Searches
 scraped: 2026-03-20
 tags: ai overviews, large-scale study, citation concentration, search features, rollout
+topic: ai_overviews
+topic_assigned_by: phase9_merge_summaries
+topic_assigned_on: 2026-03-20
 ---
 
 ## Core Concept

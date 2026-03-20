@@ -41,3 +41,24 @@ Mike King is the strongest strategic operator in this pack for rethinking SEO as
 - April 30, 2025 era: SEO Week / `The Brave New World of SEO`
 - October 27, 2025: Mike King named AI Search Marketer of the Year
 - Late 2025: `Probability in AI Search: How Generative Engine Optimization Reshapes SEO`
+
+
+<!-- phase10:begin -->
+## Evidence Fusion
+
+Evidence confidence: medium
+Freshness status: current
+Distinct sources: iPullRank
+
+### Cross-Source Signals
+- **iPullRank**: Mike King is the strongest strategic operator in this pack for rethinking SEO as retrieval engineering. Use him when the work needs to move beyond rank tracking into embeddings, fan-out, passage retrieval, and semantic competition.
+
+### Consensus
+- Sources converge that `mike king relevance engineering` should be treated as a repeatable operating concern, not a one-off tactic.
+
+### Tension / Caveat
+- No strong source conflict stands out in the current evidence set; the supporting notes mostly add nuance rather than contradict the primary canon.
+
+### Squad Action
+- Use the canonical note first, then open supporting evidence only when you need source-specific proof, edge cases, or fresher platform behavior.
+<!-- phase10:end -->

@@ -22,7 +22,7 @@ Feed source: https://www.gsqi.com/marketing-blog/feed/
 Feed title: The Internet Marketing Driver
 Latest published date: 2026-03-18
 New items since last run: 0
-Snapshot path: /Users/vijaychauhan/squad_memory/ingest/raw/gsqi/2026-03-20/20260320T043001Z-marketing-blog-feed-45f572c59c.xml
+Snapshot path: /Users/vijaychauhan/squad_memory/ingest/reputable/raw/gsqi/2026-03-20/20260320T125522Z-marketing-blog-feed-45f572c59c.xml
 
 ## Latest Items
 - 2026-03-18 | [ChatGPT links in Google Search Console: How to Discover Real User Conversations That Cite Your Content](https://www.gsqi.com/marketing-blog/chatgpt-links-in-google-search-console/)
@@ -41,7 +41,3 @@ Snapshot path: /Users/vijaychauhan/squad_memory/ingest/raw/gsqi/2026-03-20/20260
   I’ve worked on many international SEO projects over the years, including structuring that content in various ways. For example, sites providing content in different languages on the same domain, content in different languages across separate domains, content in the same language 
 - 2025-10-30 | [Stop the AI Tool and scraper madness – Set up Cloudflare today and watch expensive automated traffic disappear [Case Study]](https://www.gsqi.com/marketing-blog/ai-crawling-visualized-cloudflare/)
   I cover the absolutely insane, frustrating, and expensive AI tool, bot and scraping situation and what site owners can do right now to mitigate the problem. You’ve likely heard about the crazy amount of crawling going on by AI scrapers, AI search tools, bots, and others now that 
-- 2025-10-15 | [AI Search and the growing importance of developing strong core visibility systems, site-level quality scoring, and anti-spam systems](https://www.gsqi.com/marketing-blog/ai-search-core-systems-anti-spam/)
-  As AI Search platforms like ChatGPT, Perplexity, and Claude continue to grow, I’m seeing more and more recommendations for improving visibility through tactics that seem risky as heck. And not just risky for AI platforms, but for Search as well (Google, Bing, etc.) On that note, 
-- 2025-10-06 | [Hidden Disavow Files in GSC – Yet another reason Google just needs to remove the Disavow Tool already](https://www.gsqi.com/marketing-blog/hidden-disavow-files/)
-  I started helping a new client recently and was going through some initial checks as I began a large audit. The site has seen large drops in rankings over time based on broad core updates. During some initial conversations, I remembered them saying they removed their disavow file

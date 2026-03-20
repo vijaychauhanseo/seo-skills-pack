@@ -22,6 +22,7 @@ This one is operational:
 - it carries practitioner-shaped memory, not just abstract tips
 - it installs into real agent runtimes instead of living as copy-paste docs
 - it pairs with a portable vector snapshot so the system can remember and act
+- it now separates a strict live layer from a slower archive backfill layer so the corpus can grow without polluting the main freshness monitor
 
 ## What You Get
 
@@ -29,6 +30,8 @@ This one is operational:
 - the DEJAN AI-search reverse-engineering pack
 - Ahrefs and programmatic SEO helper skills
 - durable dated memory notes and source-canon notes
+- a strict live source layer for high-signal SEO and AI-search monitoring
+- an archive backfill layer for secondary reputable sources
 - installers for Codex, Claude Code, and generic Agent Skills directories
 
 ## Platform Support
@@ -46,8 +49,9 @@ This one is operational:
 | --- | ---: |
 | Captured | `2026-03-20` |
 | Skill directories | `5` |
-| Markdown notes inside `skills/seo` | `140` |
+| Markdown notes inside `skills/seo` | `134` |
 | Markdown files inside `skills/dejan-ai-reverse-engineering` | `6` |
+| Archive backfill notes inside `skills/seo/memory/archive` | `7` |
 | Durable memory notes | `7` |
 
 <p align="center">
@@ -63,6 +67,7 @@ This one is operational:
 | `skills/dejan-ai-reverse-engineering` | AI-search, grounding, AI Mode, and citation analysis |
 | `skills/ahrefs` | backlink and export-driven workflows |
 | `skills/programmatic-seo` | scalable page-system and feasibility workflows |
+| `skills/seo/memory/archive` | slower archive backfill from secondary reputable sources |
 | `memories/*.md` | durable dated notes from the live research system |
 
 ## Why This Repo Matters
@@ -84,6 +89,17 @@ That means a second laptop does not just have files. It has working SEO judgment
 - gives Claude, Codex, and other agent runtimes a shared SEO instruction layer
 - preserves expert lenses from DEJAN, Glenn Gabe, Marie Haynes, Patrick Stox, Cindy Krum, Lily Ray, Mike King, and others
 - makes a fresh machine feel like it already knows your research environment
+
+## Built For Ongoing Growth
+
+This pack is no longer just a static export.
+
+It now reflects a tiered memory system:
+
+- a strict live layer for high-signal freshness
+- a separate archive layer for slower reputable-source backfill
+- router notes that keep the main monitoring layer clean
+- a companion vector DB workflow that keeps new notes queryable
 
 ## Install Into Codex
 
@@ -169,6 +185,7 @@ python3 ../seo-vector-snapshot/tools/squad_memory.py decide \
 - programmatic SEO planning
 - export-driven Ahrefs workflows
 - multi-source SEO memory on a second machine
+- growing a large local SEO memory system without turning the main live layer into noise
 
 ## Why It Is Public
 
@@ -185,6 +202,7 @@ This pack includes:
 
 - practitioner canon from DEJAN, Glenn Gabe, Marie Haynes, Patrick Stox, Cindy Krum, Lily Ray, Brodie Clark, Mike King, and others
 - durable notes built from live ingestion and manual curation
+- a clean split between high-signal freshness notes and broader archive backfill notes
 - role-pack structure so the system knows which lens to apply
 - skill files that already match the Agent Skills open standard used by Claude Code
 
