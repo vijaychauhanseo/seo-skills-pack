@@ -129,8 +129,8 @@ For full portability:
 For Claude Code:
 
 1. Install this repo with `./scripts/install_to_claude.sh`
-2. Install [`seo-vector-snapshot`](https://github.com/vijaychauhanseo/seo-vector-snapshot) with its Claude installer
-3. Use the vector query skills or let Claude route work to the installed SEO subagents
+2. Install [`seo-vector-snapshot`](https://github.com/vijaychauhanseo/seo-vector-snapshot) with its Claude installer or MCP installer
+3. Use the vector query skills, the MCP server, or let Claude route work to the installed SEO subagents
 
 Example:
 
@@ -166,7 +166,7 @@ The retrieval snapshot that pairs with this pack lives here:
 - [`seo-vector-snapshot`](https://github.com/vijaychauhanseo/seo-vector-snapshot)
 
 Use this repo for skill execution and memory routing.
-Use the vector snapshot for portable retrieval and query resolution.
+Use the vector snapshot for portable retrieval, MCP tool calling, and query resolution.
 
 ## Social Preview Asset
 
