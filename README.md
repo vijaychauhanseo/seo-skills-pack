@@ -12,6 +12,16 @@ It is the instruction layer behind my local SEO squad: router memory, specialist
 
 If `seo-vector-snapshot` is the memory engine, this repo is the operating system wrapped around it.
 
+## Current Refresh
+
+This release adds a clearer live-versus-archive memory model:
+
+- the main live layer is now restricted to the highest-signal SEO and AI-search sources
+- the older noisy `live-seo-feed-*` layer has been removed from the pack
+- archive backfill now lives in a separate `skills/seo/memory/archive/` folder
+- router files were updated so the system knows when to use strict freshness versus broader backfill
+- newer Ahrefs, DEJAN, and Hobo-derived notes were added to the library
+
 ## Why This Repo Feels Different
 
 Most “AI SEO packs” are static.
@@ -100,6 +110,29 @@ It now reflects a tiered memory system:
 - a separate archive layer for slower reputable-source backfill
 - router notes that keep the main monitoring layer clean
 - a companion vector DB workflow that keeps new notes queryable
+
+## Current Content Shape
+
+Strict live layer:
+
+- Google Search Central
+- Ahrefs
+- DEJAN
+- GSQi
+- Marie Haynes
+- Lily Ray
+- MobileMoxie
+- Brodie Clark
+- iPullRank
+- Jono Alderson
+
+Archive backfill layer:
+
+- Hobo
+- Aleyda Solis
+- Search Engine Land
+- Search Engine Journal
+- Search Engine Roundtable
 
 ## Install Into Codex
 
