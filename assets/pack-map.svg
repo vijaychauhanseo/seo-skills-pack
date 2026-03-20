@@ -1,8 +1,8 @@
 <svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect width="1200" height="420" rx="24" fill="#FFFDF7"/>
   <rect x="36" y="34" width="1128" height="352" rx="22" fill="#FFFFFF" stroke="#F3E8D7"/>
-  <text x="64" y="82" fill="#7C2D12" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="800">Skill architecture</text>
-  <text x="64" y="114" fill="#9A3412" font-family="Arial, Helvetica, sans-serif" font-size="18">The instruction layer that turns stored SEO memory into usable workflows.</text>
+  <text x="64" y="82" fill="#7C2D12" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="800">Multi-agent skill architecture</text>
+  <text x="64" y="114" fill="#9A3412" font-family="Arial, Helvetica, sans-serif" font-size="18">One instruction layer that can be installed into Codex, Claude Code, or any Agent Skills-compatible runtime.</text>
 
   <rect x="64" y="154" width="182" height="160" rx="22" fill="#FFF7ED" stroke="#FDBA74"/>
   <text x="88" y="194" fill="#9A3412" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">SEO Router</text>
@@ -17,20 +17,20 @@
   <text x="307" y="278" fill="#047857" font-family="Arial, Helvetica, sans-serif" font-size="17">reverse engineering</text>
 
   <rect x="492" y="154" width="182" height="160" rx="22" fill="#EFF6FF" stroke="#93C5FD"/>
-  <text x="540" y="194" fill="#1D4ED8" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">Ahrefs</text>
+  <text x="525" y="194" fill="#1D4ED8" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">Ahrefs</text>
   <text x="523" y="230" fill="#1D4ED8" font-family="Arial, Helvetica, sans-serif" font-size="17">exports</text>
   <text x="523" y="254" fill="#1D4ED8" font-family="Arial, Helvetica, sans-serif" font-size="17">link workflows</text>
   <text x="523" y="278" fill="#1D4ED8" font-family="Arial, Helvetica, sans-serif" font-size="17">gap analysis</text>
 
   <rect x="706" y="154" width="182" height="160" rx="22" fill="#FEF2F2" stroke="#FDA4AF"/>
-  <text x="721" y="194" fill="#BE123C" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">Programmatic SEO</text>
+  <text x="721" y="194" fill="#BE123C" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">Programmatic</text>
   <text x="738" y="230" fill="#BE123C" font-family="Arial, Helvetica, sans-serif" font-size="17">page systems</text>
   <text x="738" y="254" fill="#BE123C" font-family="Arial, Helvetica, sans-serif" font-size="17">templates</text>
   <text x="738" y="278" fill="#BE123C" font-family="Arial, Helvetica, sans-serif" font-size="17">feasibility</text>
 
   <rect x="920" y="154" width="182" height="160" rx="22" fill="#F8FAFC" stroke="#CBD5E1"/>
-  <text x="956" y="194" fill="#334155" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">Memories</text>
-  <text x="947" y="230" fill="#334155" font-family="Arial, Helvetica, sans-serif" font-size="17">dated notes</text>
-  <text x="947" y="254" fill="#334155" font-family="Arial, Helvetica, sans-serif" font-size="17">source canon</text>
-  <text x="947" y="278" fill="#334155" font-family="Arial, Helvetica, sans-serif" font-size="17">research archive</text>
+  <text x="945" y="194" fill="#334155" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">Delivery</text>
+  <text x="947" y="230" fill="#334155" font-family="Arial, Helvetica, sans-serif" font-size="17">Codex</text>
+  <text x="947" y="254" fill="#334155" font-family="Arial, Helvetica, sans-serif" font-size="17">Claude Code</text>
+  <text x="947" y="278" fill="#334155" font-family="Arial, Helvetica, sans-serif" font-size="17">Agent Skills + MCP</text>
 </svg>
