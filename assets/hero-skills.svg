@@ -1,0 +1,60 @@
+<svg width="1200" height="640" viewBox="0 0 1200 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="80" y1="40" x2="1120" y2="600" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF7ED"/>
+      <stop offset="1" stop-color="#FEF3C7"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="320" y2="180" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#FFF7ED"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="16" stdDeviation="16" flood-color="#7C2D12" flood-opacity="0.15"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="640" rx="28" fill="url(#bg)"/>
+  <circle cx="1030" cy="132" r="170" fill="#F97316" opacity="0.08"/>
+  <circle cx="980" cy="506" r="176" fill="#10B981" opacity="0.08"/>
+
+  <rect x="58" y="56" width="142" height="38" rx="19" fill="#FFFFFF" stroke="#F59E0B"/>
+  <text x="81" y="80" fill="#9A3412" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="800">SEO SKILLS</text>
+
+  <text x="58" y="162" fill="#7C2D12" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="800">SEO Skills Pack</text>
+  <text x="58" y="210" fill="#9A3412" font-family="Arial, Helvetica, sans-serif" font-size="22">Portable Codex skills, memories, and operator context.</text>
+  <text x="58" y="244" fill="#9A3412" font-family="Arial, Helvetica, sans-serif" font-size="22">Built for AI search, technical SEO, routing, and research compounding.</text>
+
+  <rect x="58" y="318" width="250" height="108" rx="22" fill="url(#card)" stroke="#FDBA74" filter="url(#shadow)"/>
+  <text x="84" y="354" fill="#C2410C" font-family="Arial, Helvetica, sans-serif" font-size="18">Skill Directories</text>
+  <text x="84" y="404" fill="#7C2D12" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="800">5</text>
+
+  <rect x="330" y="318" width="250" height="108" rx="22" fill="url(#card)" stroke="#FCD34D" filter="url(#shadow)"/>
+  <text x="356" y="354" fill="#C2410C" font-family="Arial, Helvetica, sans-serif" font-size="18">SEO Memory Notes</text>
+  <text x="356" y="404" fill="#7C2D12" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="800">140</text>
+
+  <rect x="58" y="448" width="250" height="108" rx="22" fill="url(#card)" stroke="#6EE7B7" filter="url(#shadow)"/>
+  <text x="84" y="484" fill="#047857" font-family="Arial, Helvetica, sans-serif" font-size="18">DEJAN Pack Files</text>
+  <text x="84" y="534" fill="#065F46" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="800">6</text>
+
+  <rect x="330" y="448" width="250" height="108" rx="22" fill="url(#card)" stroke="#86EFAC" filter="url(#shadow)"/>
+  <text x="356" y="484" fill="#047857" font-family="Arial, Helvetica, sans-serif" font-size="18">Durable Memories</text>
+  <text x="356" y="534" fill="#065F46" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="800">7</text>
+
+  <rect x="690" y="112" width="420" height="424" rx="28" fill="#FFFFFF" stroke="#FED7AA" filter="url(#shadow)"/>
+  <text x="724" y="162" fill="#7C2D12" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="800">Inside the pack</text>
+
+  <rect x="724" y="192" width="160" height="76" rx="18" fill="#FFF7ED" stroke="#FDBA74"/>
+  <text x="752" y="236" fill="#9A3412" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">SEO Router</text>
+
+  <rect x="916" y="192" width="160" height="76" rx="18" fill="#ECFDF5" stroke="#6EE7B7"/>
+  <text x="935" y="236" fill="#047857" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">DEJAN Pack</text>
+
+  <rect x="724" y="292" width="160" height="76" rx="18" fill="#EFF6FF" stroke="#93C5FD"/>
+  <text x="763" y="336" fill="#1D4ED8" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">Ahrefs</text>
+
+  <rect x="916" y="292" width="160" height="76" rx="18" fill="#FEF2F2" stroke="#FDA4AF"/>
+  <text x="937" y="336" fill="#BE123C" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">Programmatic</text>
+
+  <rect x="820" y="402" width="160" height="76" rx="18" fill="#F8FAFC" stroke="#CBD5E1"/>
+  <text x="844" y="446" fill="#334155" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">Memories</text>
+</svg>
