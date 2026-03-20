@@ -116,3 +116,13 @@ The retrieval snapshot that pairs with this pack lives here:
 
 Use this repo for skill execution and memory routing.
 Use the vector snapshot for portable retrieval and query resolution.
+
+## Social Preview Asset
+
+If you want a custom GitHub social preview card for this repo, use:
+
+- `assets/social-preview.png`
+
+## License
+
+MIT. See [`LICENSE`](LICENSE).
