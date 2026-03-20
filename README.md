@@ -4,7 +4,7 @@
 
 # SEO Skills Pack
 
-Portable Codex skills and memory for serious SEO work.
+Portable SEO skills and memory for Codex, Claude Code, and Agent Skills-compatible tools.
 
 This repository is the instruction layer behind my local SEO system. It bundles the operator skills, router memory, DEJAN reverse-engineering pack, and curated SEO notes that make the retrieval layer actually useful.
 
@@ -16,7 +16,16 @@ If `seo-vector-snapshot` is the memory engine, this repo is the operating system
 - the DEJAN AI-search reverse-engineering pack
 - Ahrefs and programmatic SEO helper skills
 - durable dated memory notes and source-canon notes
-- a one-command installer for another laptop
+- installers for Codex, Claude Code, and generic Agent Skills directories
+
+## Platform Support
+
+| Platform | Status | Install Path |
+| --- | --- | --- |
+| Codex | Ready | `~/.codex/skills` and `~/.codex/memories` |
+| Claude Code / Claude CLI | Ready | `~/.claude/skills`, `~/.claude/agents`, `~/.claude/CLAUDE.md` |
+| Agent Skills-compatible tools | Ready | any target skills directory |
+| OpenClaw | Usable through mirrored files and indexing | import or sync workflow |
 
 ## Snapshot At A Glance
 
@@ -74,6 +83,41 @@ Override the target:
 CODEX_HOME=/path/to/codex-home ./scripts/install_to_codex.sh
 ```
 
+## Install Into Claude Code Or Claude CLI
+
+```bash
+git clone https://github.com/vijaychauhanseo/seo-skills-pack.git
+cd seo-skills-pack
+./scripts/install_to_claude.sh
+```
+
+This installs:
+
+- user-level skills into `~/.claude/skills`
+- SEO subagents into `~/.claude/agents`
+- a user memory import into `~/.claude/CLAUDE.md`
+
+After install, Claude can use:
+
+- `/seo`
+- `/seo-coral`
+- `/ahrefs`
+- `/programmatic-seo`
+- `/dejan-ai-reverse-engineering`
+
+And the installed subagents:
+
+- `seo-researcher`
+- `dejan-reverse-engineer`
+
+## Install Into Any Agent Skills Directory
+
+If another tool supports the Agent Skills open standard, copy the skills into its own skills directory:
+
+```bash
+./scripts/install_to_agent_skills_dir.sh /path/to/agent/skills
+```
+
 ## Best Paired Setup
 
 For full portability:
@@ -81,6 +125,12 @@ For full portability:
 1. Install this repo into `~/.codex`
 2. Clone [`seo-vector-snapshot`](https://github.com/vijaychauhanseo/seo-vector-snapshot)
 3. Use the DB with the installed skills for query + routing
+
+For Claude Code:
+
+1. Install this repo with `./scripts/install_to_claude.sh`
+2. Install [`seo-vector-snapshot`](https://github.com/vijaychauhanseo/seo-vector-snapshot) with its Claude installer
+3. Use the vector query skills or let Claude route work to the installed SEO subagents
 
 Example:
 
@@ -107,6 +157,7 @@ This pack includes:
 - practitioner canon from DEJAN, Glenn Gabe, Marie Haynes, Patrick Stox, Cindy Krum, Lily Ray, Brodie Clark, Mike King, and others
 - durable notes built from live ingestion and manual curation
 - role-pack structure so the system knows which lens to apply
+- skill files that already match the Agent Skills open standard used by Claude Code
 
 ## Companion Repository
 
@@ -122,6 +173,13 @@ Use the vector snapshot for portable retrieval and query resolution.
 If you want a custom GitHub social preview card for this repo, use:
 
 - `assets/social-preview.png`
+
+## Claude Adapter Files
+
+Claude-specific files live under:
+
+- `adapters/claude-code/user-memory/`
+- `adapters/claude-code/agents/`
 
 ## License
 
