@@ -1,0 +1,14 @@
+{
+  "name": "seo-skills-pack",
+  "captured_on": "2026-03-20",
+  "skill_directories": [
+    "skills/seo",
+    "skills/seo-coral",
+    "skills/ahrefs",
+    "skills/programmatic-seo",
+    "skills/dejan-ai-reverse-engineering"
+  ],
+  "seo_markdown_notes": 140,
+  "dejan_markdown_files": 6,
+  "durable_memory_notes": 7
+}

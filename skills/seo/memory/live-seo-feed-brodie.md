@@ -1,0 +1,41 @@
+---
+source: https://brodieclark.com/feed/
+title: Live Feed Snapshot - Brodie Clark
+scraped: 2026-03-20
+tags: live feed, seo expert, monitoring, brodie
+topic: live_seo_feeds
+intent: monitoring, research, source_selection
+role: researcher, coral, pinchy
+confidence: medium
+canonical: false
+canonical_group: Live SEO feed snapshots
+use_for: freshness, new_articles, source_monitoring
+avoid_for: durable_strategy_without_supporting_notes
+---
+
+# Live Feed Snapshot - Brodie Clark
+
+Homepage: https://brodieclark.com/
+Feed source: https://brodieclark.com/feed/
+Feed title: Brodie Clark Consulting
+
+## What This Expert Is Best For
+AI Mode tracking, Search Console experiments, SERP feature timelines
+
+## Latest Items
+- 2025-09-15 | [Were We Wrong About “The Great Decoupling” After All? Analyzing the Impact of &num=100](https://brodieclark.com/the-great-decoupling-num100/)
+  On September 12th, the SEO community discovered that Google had disabled the ability to use the parameter &num=100, designed to enable 100 results as the default display rather than 10. The consequence of this change was the impact on various rank tracking pro
+- 2025-09-03 | [ChatGPT Shopping Results Have Been Updated](https://brodieclark.com/chatgpt-shopping-updated/)
+  ChatGPT Shopping results have undergone the most significant update to their shoppable products integration since launch in April earlier this year. At the time, I was quite critical of the integration of ChatGPT’s equivalent to free listing results on Google,
+- 2025-08-13 | [Maximizing SEO with Google’s Loyalty Program & Promotion Features in GMC Next](https://brodieclark.com/loyalty-program-promotion-gmc/)
+  In recent years, Google has made a push to highlight both loyalty programs and standalone promotions being offered by eCommerce stores. From an SEO perspective, there is plenty of benefit to be had from stores that are able to capitalize on the increased visib
+- 2025-06-17 | [AI Mode Tracking in Google Search Console Confirmed [SEO Experiment]](https://brodieclark.com/ai-mode-google-search-console/)
+  AI Mode data has arrived in Google Search Console as of around June 13th onwards. I went ahead and created an experiment that involved hundreds of SEOs searching for the same query in AI Mode to be confident that it is tracking as expected. Within this article
+- 2025-05-16 | [Google Top Quality Store Optimization: Tips & Tricks for Ecommerce SEO](https://brodieclark.com/top-quality-store-google/)
+  Google Top Quality Store optimization is one of eCommerce SEO’s hidden gems. The rating provided by Google’s systems is often hidden in plain sight, but can carry significant weight in the way that Google ranks stores in Search. It’s an optimization lever that
+- 2025-05-02 | [ChatGPT-5 Shopping vs. Google Shopping [Early Review]](https://brodieclark.com/chatgpt-shopping-vs-google/)
+  ChatGPT has entered the eCommerce arena. The Shopping experience was previously quite incomplete within ChatGPT, with the latest update now providing product recommendations as part of its search experience. One of my specialties is eCommerce SEO. I have exten
+- 2025-04-03 | [New Research: Google Free Listing Types (Popular Products, In Stores Nearby, Deals On & More)](https://brodieclark.com/google-free-listing-grid-types/)
+  Ecommerce SEO has fundamentally changed on a global scale in recent years with the rise of organic product grids as a SERP feature. Previously, the focus was primarily on ranking PLPs (Product Listing Pages) for high volume non-branded queries. While this is s
+- 2025-03-06 | [I have early access to Google’s new AI Mode. Here’s what you need to know](https://brodieclark.com/ai-mode-google/)
+  After opting in to the waitlist and being a Gemini Advanced user, I’ve just been given early access to Google’s new AI Mode within labs after receiving the confirmation email. To access the AI Mode labs experience, I’m needing to use a VPN for the US, consider

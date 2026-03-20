@@ -1,0 +1,4 @@
+interface:
+  display_name: "DEJAN AI Reverse Engineering"
+  short_description: "AI search reverse-engineering playbook"
+  default_prompt: "Use $dejan-ai-reverse-engineering to reverse engineer AI search, grounding, citations, or machine-readable content behavior."
